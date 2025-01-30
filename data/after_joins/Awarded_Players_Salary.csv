@@ -1,0 +1,717 @@
+yearID,player_name,awardID,salary
+2016,Zack Greinke,Gold Glove,31799030
+2008,Alex Rodriguez,Silver Slugger,28000000
+2016,Miguel Cabrera,Silver Slugger,28000000
+2016,Yoenis Cespedes,Silver Slugger,27328046
+2005,Alex Rodriguez,Most Valuable Player,26000000
+2005,Alex Rodriguez,Silver Slugger,26000000
+2014,Zack Greinke,Gold Glove,26000000
+2015,Zack Greinke,Gold Glove,25000000
+2012,Mark Teixeira,Gold Glove,23125000
+2012,Prince Fielder,Silver Slugger,23000000
+2013,Joe Mauer,Silver Slugger,23000000
+2007,Alex Rodriguez,Most Valuable Player,22708525
+2007,Alex Rodriguez,Silver Slugger,22708525
+2010,Derek Jeter,Gold Glove,22600000
+2004,Manny Ramirez,Silver Slugger,22500000
+2016,Max Scherzer,Cy Young Award,22142857
+2001,Alex Rodriguez,Silver Slugger,22000000
+2002,Alex Rodriguez,Gold Glove,22000000
+2002,Alex Rodriguez,Silver Slugger,22000000
+2003,Alex Rodriguez,Gold Glove,22000000
+2003,Alex Rodriguez,Most Valuable Player,22000000
+2003,Alex Rodriguez,Silver Slugger,22000000
+2005,Manny Ramirez,Silver Slugger,22000000
+2015,Miguel Cabrera,Silver Slugger,22000000
+2007,Derek Jeter,Silver Slugger,21600000
+2008,Derek Jeter,Silver Slugger,21600000
+2009,Derek Jeter,Gold Glove,21600000
+2009,Derek Jeter,Silver Slugger,21600000
+2012,Miguel Cabrera,Most Valuable Player,21000000
+2012,Miguel Cabrera,Silver Slugger,21000000
+2012,Miguel Cabrera,Triple Crown,21000000
+2013,Miguel Cabrera,Most Valuable Player,21000000
+2013,Miguel Cabrera,Silver Slugger,21000000
+2013,Zack Greinke,Silver Slugger,21000000
+2014,Adrian Gonzalez,Gold Glove,21000000
+2014,Adrian Gonzalez,Silver Slugger,21000000
+2016,Buster Posey,Gold Glove,20777778
+2009,Mark Teixeira,Gold Glove,20625000
+2009,Mark Teixeira,Silver Slugger,20625000
+2010,Mark Teixeira,Gold Glove,20625000
+2006,Derek Jeter,Gold Glove,20600000
+2006,Derek Jeter,Silver Slugger,20600000
+2016,Rick Porcello,Cy Young Award,20125000
+2003,Manny Ramirez,Silver Slugger,20000000
+2010,Miguel Cabrera,Silver Slugger,20000000
+2005,Derek Jeter,Gold Glove,19600000
+2016,Jason Heyward,Gold Glove,19555288
+2009,Carlos Zambrano,Silver Slugger,18750000
+2003,Carlos Delgado,Silver Slugger,18700000
+2008,Carlos Beltran,Gold Glove,18622809
+2004,Derek Jeter,Gold Glove,18600000
+2006,Manny Ramirez,Silver Slugger,18279238
+2004,Barry Bonds,Most Valuable Player,18000000
+2004,Barry Bonds,Silver Slugger,18000000
+2009,Torii Hunter,Gold Glove,18000000
+2009,Ichiro Suzuki,Gold Glove,18000000
+2009,Torii Hunter,Silver Slugger,18000000
+2009,Ichiro Suzuki,Silver Slugger,18000000
+2010,Ichiro Suzuki,Gold Glove,18000000
+2016,Adrian Beltre,Gold Glove,18000000
+2008,Ichiro Suzuki,Gold Glove,17102149
+2014,Adrian Beltre,Silver Slugger,17000000
+2015,Brian McCann,Silver Slugger,17000000
+2008,Torii Hunter,Gold Glove,16500000
+2015,Buster Posey,Silver Slugger,16500000
+2010,Matt Holliday,Silver Slugger,16333327
+2016,Mike Trout,Silver Slugger,16083333
+2016,Mike Trout,Most Valuable Player,16083333
+2008,Carlos Zambrano,Silver Slugger,16000000
+2015,Carlos Gonzalez,Silver Slugger,16000000
+2016,David Ortiz,Silver Slugger,16000000
+2010,Roy Halladay,Cy Young Award,15750000
+2012,Derek Jeter,Silver Slugger,15729364
+2003,Barry Bonds,Most Valuable Player,15500000
+2003,Barry Bonds,Silver Slugger,15500000
+2011,Prince Fielder,Silver Slugger,15500000
+2002,Manny Ramirez,Silver Slugger,15462727
+2012,Josh Hamilton,Silver Slugger,15250000
+2015,Yadier Molina,Platinum Glove,15000000
+2014,Yadier Molina,Platinum Glove,15000000
+2012,Adrian Beltre,Platinum Glove,15000000
+2002,Barry Bonds,Most Valuable Player,15000000
+2002,Barry Bonds,Silver Slugger,15000000
+2002,Sammy Sosa,Silver Slugger,15000000
+2012,Adrian Beltre,Gold Glove,15000000
+2013,Robinson Cano,Silver Slugger,15000000
+2014,Nick Markakis,Gold Glove,15000000
+2014,Yadier Molina,Gold Glove,15000000
+2015,Yadier Molina,Gold Glove,15000000
+2011,Aramis Ramirez,Silver Slugger,14600000
+2010,Albert Pujols,Gold Glove,14595953
+2010,Albert Pujols,Silver Slugger,14595953
+2007,Vladimir Guerrero,Silver Slugger,14500000
+2013,David Ortiz,Silver Slugger,14500000
+2009,Albert Pujols,Most Valuable Player,14427326
+2009,Albert Pujols,Silver Slugger,14427326
+2014,Justin Upton,Silver Slugger,14250000
+2015,Nelson Cruz,Silver Slugger,14250000
+2013,Yadier Molina,Gold Glove,14200000
+2013,Yadier Molina,Silver Slugger,14200000
+2011,Adrian Beltre,Platinum Glove,14000000
+2006,Albert Pujols,Gold Glove,14000000
+2007,Andruw Jones,Gold Glove,14000000
+2009,Mark Buehrle,Gold Glove,14000000
+2010,Mark Buehrle,Gold Glove,14000000
+2011,Adrian Beltre,Gold Glove,14000000
+2011,Mark Buehrle,Gold Glove,14000000
+2011,Adrian Beltre,Silver Slugger,14000000
+2012,Robinson Cano,Gold Glove,14000000
+2012,Robinson Cano,Silver Slugger,14000000
+2014,Jose Bautista,Silver Slugger,14000000
+2016,Ian Kinsler,Gold Glove,14000000
+2008,Albert Pujols,Most Valuable Player,13870949
+2008,Albert Pujols,Silver Slugger,13870949
+2003,Mike Hampton,Gold Glove,13625000
+2003,Mike Hampton,Silver Slugger,13625000
+2001,Mike Piazza,Silver Slugger,13571429
+2007,Carlos Beltran,Gold Glove,13571429
+2007,Carlos Beltran,Silver Slugger,13571429
+2006,Carlos Beltran,Gold Glove,13571428
+2006,Carlos Beltran,Silver Slugger,13571428
+2006,Andruw Jones,Gold Glove,13500000
+2006,Vladimir Guerrero,Silver Slugger,13500000
+2016,Brett Gardner,Gold Glove,13500000
+2008,Adrian Beltre,Gold Glove,13400000
+2000,Randy Johnson,Cy Young Award,13350000
+2001,Randy Johnson,Cy Young Award,13350000
+2002,Randy Johnson,Cy Young Award,13350000
+2002,Randy Johnson,Pitching Triple Crown,13350000
+2007,Derrek Lee,Gold Glove,13250000
+2007,David Ortiz,Silver Slugger,13250000
+2007,Magglio Ordonez,Silver Slugger,13200000
+2002,Greg Maddux,Gold Glove,13100000
+2005,Bobby Abreu,Gold Glove,13100000
+2001,Manny Ramirez,Silver Slugger,13050000
+2004,Gary Sheffield,Silver Slugger,13000000
+2005,Andruw Jones,Gold Glove,13000000
+2005,Gary Sheffield,Silver Slugger,13000000
+2005,Andruw Jones,Silver Slugger,13000000
+2007,Johan Santana,Gold Glove,13000000
+2013,Shane Victorino,Gold Glove,13000000
+2014,Adam Jones,Gold Glove,13000000
+2007,Adrian Beltre,Gold Glove,12900000
+2011,Justin Verlander,Cy Young Award,12850000
+2011,Justin Verlander,Most Valuable Player,12850000
+2011,Justin Verlander,Pitching Triple Crown,12850000
+2002,Larry Walker,Gold Glove,12666667
+2001,Greg Maddux,Gold Glove,12500000
+2001,Sammy Sosa,Silver Slugger,12500000
+2004,Andruw Jones,Gold Glove,12500000
+2005,Ichiro Suzuki,Gold Glove,12500000
+2005,Vladimir Guerrero,Silver Slugger,12500000
+2006,Ichiro Suzuki,Gold Glove,12500000
+2007,Ichiro Suzuki,Gold Glove,12500000
+2007,Ichiro Suzuki,Silver Slugger,12500000
+2010,Joe Mauer,Gold Glove,12500000
+2010,Joe Mauer,Silver Slugger,12500000
+2011,David Ortiz,Silver Slugger,12500000
+2014,Dustin Pedroia,Gold Glove,12500000
+2014,Buster Posey,Silver Slugger,12500000
+2006,Scott Rolen,Gold Glove,12456336
+2000,Bernie Williams,Gold Glove,12357143
+2002,Bernie Williams,Silver Slugger,12357143
+2001,Larry Walker,Gold Glove,12166667
+2000,Mike Piazza,Silver Slugger,12071429
+2003,Mike Mussina,Gold Glove,12000000
+2003,Andruw Jones,Gold Glove,12000000
+2007,Torii Hunter,Gold Glove,12000000
+2007,Jorge Posada,Silver Slugger,12000000
+2013,Adam Wainwright,Gold Glove,12000000
+2013,Torii Hunter,Silver Slugger,12000000
+2014,Victor Martinez,Silver Slugger,12000000
+2013,Clayton Kershaw,Cy Young Award,11750000
+2016,Josh Donaldson,Silver Slugger,11650000
+2010,Bronson Arroyo,Gold Glove,11625000
+2004,Todd Helton,Gold Glove,11600000
+2000,Pedro Martinez,Cy Young Award,11500000
+2007,Carlos Lee,Silver Slugger,11500000
+2011,Brandon Phillips,Gold Glove,11437500
+2011,Brandon Phillips,Silver Slugger,11437500
+2003,Gary Sheffield,Silver Slugger,11416667
+2009,Chase Utley,Silver Slugger,11285714
+2000,Greg Maddux,Gold Glove,11100000
+2008,Mike Mussina,Gold Glove,11071029
+2000,Sammy Sosa,Silver Slugger,11000000
+2004,Vladimir Guerrero,Most Valuable Player,11000000
+2004,Vladimir Guerrero,Silver Slugger,11000000
+2005,Albert Pujols,Most Valuable Player,11000000
+2005,Miguel Tejada,Silver Slugger,11000000
+2012,Jimmy Rollins,Gold Glove,11000000
+2006,Torii Hunter,Gold Glove,10750000
+2016,Jake Arrieta,Silver Slugger,10700000
+2000,Barry Bonds,Silver Slugger,10658826
+2006,Ivan Rodriguez,Gold Glove,10616410
+2003,Todd Helton,Silver Slugger,10600000
+2004,Bobby Abreu,Silver Slugger,10600000
+2011,Nick Markakis,Gold Glove,10600000
+2002,Mike Piazza,Silver Slugger,10571429
+2007,Ivan Rodriguez,Gold Glove,10567639
+2001,Mike Hampton,Silver Slugger,10500000
+2009,Joe Mauer,Gold Glove,10500000
+2009,Joe Mauer,Most Valuable Player,10500000
+2009,Joe Mauer,Silver Slugger,10500000
+2013,Michael Cuddyer,Silver Slugger,10500000
+2015,Yoenis Cespedes,Gold Glove,10500000
+2002,Jason Giambi,Silver Slugger,10428571
+2005,Jim Edmonds,Gold Glove,10333333
+2001,Roger Clemens,Cy Young Award,10300000
+2001,Barry Bonds,Most Valuable Player,10300000
+2001,Barry Bonds,Silver Slugger,10300000
+2013,Dustin Pedroia,Gold Glove,10250000
+2013,Brandon Phillips,Gold Glove,10083333
+2014,Alex Gordon,Platinum Glove,10000000
+2001,Mike Mussina,Gold Glove,10000000
+2001,Juan Gonzalez,Silver Slugger,10000000
+2002,Andruw Jones,Gold Glove,10000000
+2005,Bartolo Colon,Cy Young Award,10000000
+2006,Alfonso Soriano,Silver Slugger,10000000
+2007,Greg Maddux,Gold Glove,10000000
+2008,Greg Maddux,Gold Glove,10000000
+2010,Carl Crawford,Gold Glove,10000000
+2010,Carl Crawford,Silver Slugger,10000000
+2011,Robinson Cano,Silver Slugger,10000000
+2014,Alex Gordon,Gold Glove,10000000
+2015,Andrew McCutchen,Silver Slugger,10000000
+2002,Mike Hampton,Silver Slugger,9503543
+2006,Eric Chavez,Gold Glove,9500000
+2008,Matt Holliday,Silver Slugger,9500000
+2011,Andre Ethier,Gold Glove,9500000
+2014,Alexei Ramirez,Silver Slugger,9500000
+2004,Jim Edmonds,Gold Glove,9333333
+2004,Jim Edmonds,Silver Slugger,9333333
+2016,Mark Trumbo,Silver Slugger,9150000
+2005,Greg Maddux,Gold Glove,9000000
+2006,Greg Maddux,Gold Glove,9000000
+2010,Robinson Cano,Gold Glove,9000000
+2010,Robinson Cano,Silver Slugger,9000000
+2010,Adrian Beltre,Silver Slugger,9000000
+2013,Alex Gordon,Gold Glove,9000000
+2013,Adam Jones,Gold Glove,8833333
+2013,Adam Jones,Silver Slugger,8833333
+2006,Johan Santana,Cy Young Award,8750000
+2006,Johan Santana,Pitching Triple Crown,8750000
+2007,CC Sabathia,Cy Young Award,8750000
+2004,Scott Rolen,Gold Glove,8625000
+2000,Ivan Rodriguez,Gold Glove,8600000
+2002,Scott Rolen,Gold Glove,8600000
+2002,Scott Rolen,Silver Slugger,8600000
+2005,Eric Chavez,Gold Glove,8500000
+2007,Orlando Cabrera,Gold Glove,8500000
+2009,Jimmy Rollins,Gold Glove,8500000
+2012,Billy Butler,Silver Slugger,8500000
+2008,Justin Morneau,Silver Slugger,8400000
+2003,Jim Edmonds,Gold Glove,8333333
+2011,Curtis Granderson,Silver Slugger,8250000
+2001,Ivan Rodriguez,Gold Glove,8200000
+2001,Andruw Jones,Gold Glove,8200000
+2002,Bret Boone,Gold Glove,8000000
+2002,Vladimir Guerrero,Silver Slugger,8000000
+2003,Bret Boone,Gold Glove,8000000
+2003,Bret Boone,Silver Slugger,8000000
+2003,Jorge Posada,Silver Slugger,8000000
+2004,Bret Boone,Gold Glove,8000000
+2005,Jason Varitek,Gold Glove,8000000
+2005,Torii Hunter,Gold Glove,8000000
+2005,Jason Varitek,Silver Slugger,8000000
+2005,Carlos Lee,Silver Slugger,8000000
+2006,Kenny Rogers,Gold Glove,8000000
+2007,Jimmy Rollins,Gold Glove,8000000
+2007,Jimmy Rollins,Most Valuable Player,8000000
+2007,Jimmy Rollins,Silver Slugger,8000000
+2008,Jimmy Rollins,Gold Glove,8000000
+2008,Aubrey Huff,Silver Slugger,8000000
+2011,Jose Bautista,Silver Slugger,8000000
+2012,Adam LaRoche,Gold Glove,8000000
+2012,Adam LaRoche,Silver Slugger,8000000
+2016,Daniel Murphy,Silver Slugger,8000000
+2013,Carlos Gonzalez,Gold Glove,7928571
+2009,Jason Bay,Silver Slugger,7800000
+2010,Dan Uggla,Silver Slugger,7800000
+2015,Jason Heyward,Gold Glove,7800000
+2008,Chase Utley,Silver Slugger,7785714
+2001,Roberto Alomar,Gold Glove,7750000
+2004,Darin Erstad,Gold Glove,7750000
+2003,John Olerud,Gold Glove,7700000
+2005,Derrek Lee,Gold Glove,7666667
+2005,Derrek Lee,Silver Slugger,7666667
+2010,Scott Rolen,Gold Glove,7666666
+2003,Scott Rolen,Gold Glove,7625000
+2013,Jay Bruce,Silver Slugger,7541667
+2000,Kenny Rogers,Gold Glove,7500000
+2002,Kenny Rogers,Gold Glove,7500000
+2005,Mike Lowell,Gold Glove,7500000
+2005,Alfonso Soriano,Silver Slugger,7500000
+2003,Mike Cameron,Gold Glove,7416667
+2013,J. J. Hardy,Gold Glove,7416667
+2013,J. J. Hardy,Silver Slugger,7416667
+2012,J. J. Hardy,Gold Glove,7416666
+2011,Joey Votto,Gold Glove,7410655
+2005,Jeff Kent,Silver Slugger,7350000
+2002,Jim Edmonds,Gold Glove,7333333
+2006,Mike Cameron,Gold Glove,7333333
+2014,Andrew McCutchen,Silver Slugger,7250000
+2016,Dallas Keuchel,Gold Glove,7250000
+2010,Felix Hernandez,Cy Young Award,7200000
+2000,Roberto Alomar,Gold Glove,7196656
+2000,Roberto Alomar,Silver Slugger,7196656
+2000,Frank Thomas,Silver Slugger,7100000
+2011,Matt Kemp,Gold Glove,7100000
+2011,Matt Kemp,Silver Slugger,7100000
+2012,Yadier Molina,Platinum Glove,7000000
+2002,Jorge Posada,Silver Slugger,7000000
+2003,Javy Lopez,Silver Slugger,7000000
+2004,Ivan Rodriguez,Gold Glove,7000000
+2004,Steve Finley,Gold Glove,7000000
+2004,Ivan Rodriguez,Silver Slugger,7000000
+2004,Albert Pujols,Silver Slugger,7000000
+2012,Yadier Molina,Gold Glove,7000000
+2012,Mark Buehrle,Gold Glove,7000000
+2012,Josh Willingham,Silver Slugger,7000000
+2014,J. J. Hardy,Gold Glove,7000000
+2014,Jose Abreu,Rookie of the Year,7000000
+2014,Jose Abreu,Silver Slugger,7000000
+2002,John Olerud,Gold Glove,6950000
+2010,Brandon Phillips,Gold Glove,6937500
+2015,Madison Bumgarner,Silver Slugger,6750000
+2013,Max Scherzer,Cy Young Award,6725000
+2011,Brian McCann,Silver Slugger,6700000
+2000,Carlos Delgado,Silver Slugger,6600000
+2002,Magglio Ordonez,Silver Slugger,6500000
+2003,Edgar Renteria,Gold Glove,6500000
+2003,Edgar Renteria,Silver Slugger,6500000
+2004,Torii Hunter,Gold Glove,6500000
+2004,Ichiro Suzuki,Gold Glove,6500000
+2006,David Ortiz,Silver Slugger,6500000
+2006,Carlos Zambrano,Silver Slugger,6500000
+2014,Giancarlo Stanton,Silver Slugger,6500000
+2014,Ian Desmond,Silver Slugger,6500000
+2015,Kendrys Morales,Silver Slugger,6500000
+2006,Mark Teixeira,Gold Glove,6400000
+2000,John Olerud,Gold Glove,6350000
+2010,Ryan Zimmerman,Silver Slugger,6350000
+2001,Jim Edmonds,Gold Glove,6333333
+2011,Adrian Gonzalez,Gold Glove,6300000
+2011,Adrian Gonzalez,Silver Slugger,6300000
+2002,Darin Erstad,Gold Glove,6250000
+2008,Joe Mauer,Gold Glove,6250000
+2008,Joe Mauer,Silver Slugger,6250000
+2008,Michael Young,Gold Glove,6174974
+2012,Adam Jones,Gold Glove,6150000
+2015,Mike Trout,Silver Slugger,6083000
+2000,Jeff Kent,Most Valuable Player,6000000
+2000,Jeff Kent,Silver Slugger,6000000
+2001,Jeff Kent,Silver Slugger,6000000
+2002,Edgar Renteria,Gold Glove,6000000
+2002,Jeff Kent,Silver Slugger,6000000
+2002,Edgar Renteria,Silver Slugger,6000000
+2004,Greg Maddux,Gold Glove,6000000
+2004,Livan Hernandez,Silver Slugger,6000000
+2008,Carlos Pena,Gold Glove,6000000
+2012,A. J. Pierzynski,Silver Slugger,6000000
+2016,Brandon Crawford,Gold Glove,6000000
+2000,Mike Hampton,Silver Slugger,5750000
+2011,Dustin Pedroia,Gold Glove,5750000
+2014,Neil Walker,Silver Slugger,5750000
+2010,Brian McCann,Silver Slugger,5700000
+2016,Mitch Moreland,Gold Glove,5700000
+2001,Ichiro Suzuki,Gold Glove,5666667
+2001,Ichiro Suzuki,Most Valuable Player,5666667
+2001,Ichiro Suzuki,Rookie of the Year,5666667
+2001,Ichiro Suzuki,Silver Slugger,5666667
+2015,Eric Hosmer,Gold Glove,5650000
+2000,Travis Fryman,Gold Glove,5550000
+2001,Scott Rolen,Gold Glove,5500000
+2001,Edgar Martinez,Silver Slugger,5500000
+2003,Jose Vidro,Silver Slugger,5500000
+2009,Hanley Ramirez,Silver Slugger,5500000
+2010,Vladimir Guerrero,Silver Slugger,5500000
+2011,Troy Tulowitzki,Gold Glove,5500000
+2011,Troy Tulowitzki,Silver Slugger,5500000
+2012,Aaron Hill,Silver Slugger,5500000
+2012,Carlos Gonzalez,Gold Glove,5428571
+2011,Placido Polanco,Gold Glove,5416666
+2004,Alfonso Soriano,Silver Slugger,5400000
+2000,Steve Finley,Gold Glove,5375000
+2003,Garret Anderson,Silver Slugger,5350000
+2016,Wilson Ramos,Silver Slugger,5350000
+2004,Eric Chavez,Gold Glove,5325000
+2011,Yadier Molina,Platinum Glove,5312500
+2011,Yadier Molina,Gold Glove,5312500
+2016,Anthony Rizzo,Platinum Glove,5285714
+2016,Anthony Rizzo,Silver Slugger,5285714
+2016,Anthony Rizzo,Gold Glove,5285714
+2005,David Ortiz,Silver Slugger,5250000
+2008,David Wright,Gold Glove,5250000
+2008,David Wright,Silver Slugger,5250000
+2005,Luis Castillo,Gold Glove,5166667
+2012,Jay Bruce,Silver Slugger,5041666
+2002,Todd Helton,Gold Glove,5000000
+2002,Brad Ausmus,Gold Glove,5000000
+2002,Garret Anderson,Silver Slugger,5000000
+2002,Todd Helton,Silver Slugger,5000000
+2004,Roger Clemens,Cy Young Award,5000000
+2004,Miguel Tejada,Silver Slugger,5000000
+2004,Adrian Beltre,Silver Slugger,5000000
+2006,Jermaine Dye,Silver Slugger,5000000
+2010,Shane Victorino,Gold Glove,5000000
+2013,R. A. Dickey,Gold Glove,5000000
+2016,Nolan Arenado,Silver Slugger,5000000
+2016,Nolan Arenado,Gold Glove,5000000
+2001,Todd Helton,Gold Glove,4950000
+2001,Todd Helton,Silver Slugger,4950000
+2012,Stephen Strasburg,Silver Slugger,4875000
+2003,Luis Castillo,Gold Glove,4850000
+2001,Luis Gonzalez,Silver Slugger,4833333
+2007,Chase Utley,Silver Slugger,4785714
+2012,Alex Gordon,Gold Glove,4775000
+2000,J. T. Snow,Gold Glove,4750000
+2000,Chipper Jones,Silver Slugger,4750000
+2003,Torii Hunter,Gold Glove,4750000
+2007,Jake Peavy,Cy Young Award,4750000
+2007,Jake Peavy,Pitching Triple Crown,4750000
+2012,R. A. Dickey,Cy Young Award,4750000
+2013,Andrew McCutchen,Most Valuable Player,4708333
+2013,Andrew McCutchen,Silver Slugger,4708333
+2003,Ichiro Suzuki,Gold Glove,4666667
+2004,Luis Castillo,Gold Glove,4666667
+2007,Placido Polanco,Gold Glove,4600000
+2007,Placido Polanco,Silver Slugger,4600000
+2009,Placido Polanco,Gold Glove,4600000
+2004,David Ortiz,Silver Slugger,4587500
+2000,Jim Edmonds,Gold Glove,4500000
+2014,Jason Heyward,Gold Glove,4500000
+2006,Vernon Wells,Gold Glove,4470000
+2011,Justin Upton,Silver Slugger,4458333
+2007,Matt Holliday,Silver Slugger,4400000
+2000,Alex Rodriguez,Silver Slugger,4362500
+2007,Aaron Rowand,Gold Glove,4350000
+2012,David Price,Cy Young Award,4350000
+2001,Fernando Vina,Gold Glove,4333333
+2002,Fernando Vina,Gold Glove,4333333
+2010,Yadier Molina,Gold Glove,4312500
+2013,Carlos Gomez,Gold Glove,4300000
+2015,Josh Donaldson,Most Valuable Player,4300000
+2015,Josh Donaldson,Silver Slugger,4300000
+2011,Ryan Braun,Most Valuable Player,4287500
+2011,Ryan Braun,Silver Slugger,4287500
+2000,Manny Ramirez,Silver Slugger,4250000
+2001,Brad Ausmus,Gold Glove,4250000
+2003,Derrek Lee,Gold Glove,4250000
+2001,Jason Giambi,Silver Slugger,4103333
+2001,Jorge Posada,Silver Slugger,4050000
+2000,Kazuhiro Sasaki,Rookie of the Year,4000000
+2003,Edgar Martinez,Silver Slugger,4000000
+2004,Mike Matheny,Gold Glove,4000000
+2006,Mark Grudzielanek,Gold Glove,4000000
+2008,Cliff Lee,Cy Young Award,4000000
+2014,Clayton Kershaw,Cy Young Award,4000000
+2014,Clayton Kershaw,Most Valuable Player,4000000
+2007,Orlando Hudson,Gold Glove,3900000
+2003,Roy Halladay,Cy Young Award,3825000
+2013,Ian Desmond,Silver Slugger,3800000
+2009,Zack Greinke,Cy Young Award,3750000
+2014,Madison Bumgarner,Silver Slugger,3750000
+2000,Andruw Jones,Gold Glove,3700000
+2003,Mike Lowell,Silver Slugger,3700000
+2009,Brian McCann,Silver Slugger,3700000
+2002,Ichiro Suzuki,Gold Glove,3696000
+2016,Jose Altuve,Silver Slugger,3687500
+2003,Eric Chavez,Gold Glove,3675000
+2006,Omar Vizquel,Gold Glove,3640084
+2015,Jake Arrieta,Cy Young Award,3630000
+2002,Miguel Tejada,Most Valuable Player,3625000
+2005,Mark Teixeira,Gold Glove,3625000
+2005,Mark Teixeira,Silver Slugger,3625000
+2014,Eric Hosmer,Gold Glove,3600000
+2000,Vladimir Guerrero,Silver Slugger,3500000
+2005,Kenny Rogers,Gold Glove,3500000
+2010,Troy Tulowitzki,Gold Glove,3500000
+2010,Troy Tulowitzki,Silver Slugger,3500000
+2016,Charlie Blackmon,Silver Slugger,3500000
+2012,Chase Headley,Gold Glove,3475000
+2012,Chase Headley,Silver Slugger,3475000
+2001,Mike Cameron,Gold Glove,3416667
+2009,Orlando Hudson,Gold Glove,3364877
+2016,Starling Marte,Gold Glove,3333333
+2009,Ryan Zimmerman,Gold Glove,3325000
+2009,Ryan Zimmerman,Silver Slugger,3325000
+2009,Yadier Molina,Gold Glove,3312500
+2013,Chris Davis,Silver Slugger,3300000
+2001,Bret Boone,Silver Slugger,3250000
+2001,Rich Aurilia,Silver Slugger,3250000
+2003,Mike Matheny,Gold Glove,3250000
+2005,Omar Vizquel,Gold Glove,3250000
+2010,Josh Hamilton,Most Valuable Player,3250000
+2010,Josh Hamilton,Silver Slugger,3250000
+2015,Brandon Crawford,Gold Glove,3175000
+2015,Brandon Crawford,Silver Slugger,3175000
+2008,Grady Sizemore,Gold Glove,3166666
+2008,Grady Sizemore,Silver Slugger,3166666
+2005,Michael Barrett,Silver Slugger,3133333
+2009,Adrian Gonzalez,Gold Glove,3125000
+2009,Shane Victorino,Gold Glove,3125000
+2000,Jason Giambi,Most Valuable Player,3103333
+2009,Andre Ethier,Silver Slugger,3100000
+2015,Paul Goldschmidt,Gold Glove,3100000
+2015,Paul Goldschmidt,Silver Slugger,3100000
+2005,Vernon Wells,Gold Glove,3070000
+2000,Omar Vizquel,Gold Glove,3000000
+2001,Omar Vizquel,Gold Glove,3000000
+2005,Jason Marquis,Silver Slugger,3000000
+2011,Erick Aybar,Gold Glove,3000000
+2015,Alcides Escobar,Gold Glove,3000000
+2015,J. D. Martinez,Silver Slugger,3000000
+2008,Brandon Phillips,Gold Glove,2937500
+2009,Adam Wainwright,Gold Glove,2787500
+2000,Scott Rolen,Gold Glove,2750000
+2006,Joe Crede,Silver Slugger,2675000
+2004,Mark Teixeira,Silver Slugger,2625000
+2009,Aaron Hill,Silver Slugger,2590000
+2000,Darin Erstad,Gold Glove,2500000
+2000,Darin Erstad,Silver Slugger,2500000
+2003,Jose Cruz,Gold Glove,2500000
+2004,Kenny Rogers,Gold Glove,2500000
+2004,Mark Loretta,Silver Slugger,2500000
+2006,Brandon Webb,Cy Young Award,2500000
+2015,Jose Altuve,Gold Glove,2500000
+2015,Dee Strange-Gordon,Gold Glove,2500000
+2015,Bryce Harper,Most Valuable Player,2500000
+2015,Jose Altuve,Silver Slugger,2500000
+2015,Dee Strange-Gordon,Silver Slugger,2500000
+2015,Bryce Harper,Silver Slugger,2500000
+2002,Torii Hunter,Gold Glove,2400000
+2010,Michael Bourn,Gold Glove,2400000
+2010,Jose Bautista,Silver Slugger,2400000
+2011,Jacoby Ellsbury,Gold Glove,2400000
+2011,Jacoby Ellsbury,Silver Slugger,2400000
+2013,Gerardo Parra,Gold Glove,2350000
+2004,Melvin Mora,Silver Slugger,2333333
+2010,Franklin Gutierrez,Gold Glove,2312500
+2000,Jermaine Dye,Gold Glove,2300000
+2006,Orlando Hudson,Gold Glove,2300000
+2000,Edgar Renteria,Silver Slugger,2250000
+2000,Neifi Perez,Gold Glove,2212500
+2002,Eric Chavez,Gold Glove,2125000
+2002,Eric Chavez,Silver Slugger,2125000
+2003,Bill Mueller,Silver Slugger,2100000
+2011,Asdrubal Cabrera,Silver Slugger,2025000
+2005,Chris Carpenter,Cy Young Award,2000000
+2005,Mike Matheny,Gold Glove,2000000
+2016,Salvador Perez,Silver Slugger,2000000
+2016,Salvador Perez,Gold Glove,2000000
+2000,Pokey Reese,Gold Glove,1950000
+2004,Jack Wilson,Silver Slugger,1850000
+2008,Yadier Molina,Gold Glove,1812500
+2014,Anthony Rendon,Silver Slugger,1800000
+2015,Salvador Perez,Gold Glove,1750000
+2004,Johan Santana,Cy Young Award,1600000
+2014,Salvador Perez,Gold Glove,1500000
+2014,Michael Brantley,Silver Slugger,1500000
+2003,Bengie Molina,Gold Glove,1425000
+2011,Alex Gordon,Gold Glove,1400000
+2015,Starling Marte,Gold Glove,1333333
+2000,Todd Helton,Silver Slugger,1300000
+2010,Ryan Braun,Silver Slugger,1287500
+2000,Jorge Posada,Silver Slugger,1250000
+2001,Troy Glaus,Silver Slugger,1250000
+2007,David Wright,Gold Glove,1250000
+2007,David Wright,Silver Slugger,1250000
+2014,Jose Altuve,Silver Slugger,1250000
+2010,Alexei Ramirez,Silver Slugger,1225000
+2009,Ryan Braun,Silver Slugger,1032500
+2013,Salvador Perez,Gold Glove,1000000
+2014,Andrelton Simmons,Gold Glove,1000000
+2014,Mike Trout,Most Valuable Player,1000000
+2014,Mike Trout,Silver Slugger,1000000
+2016,Christian Yelich,Silver Slugger,1000000
+2006,Justin Verlander,Rookie of the Year,980000
+2008,Brian McCann,Silver Slugger,966666
+2010,Evan Longoria,Gold Glove,950000
+2007,Grady Sizemore,Gold Glove,916667
+2003,Albert Pujols,Silver Slugger,900000
+2008,Adrian Gonzalez,Gold Glove,875000
+2004,Vernon Wells,Gold Glove,870000
+2007,Carlos Pena,Silver Slugger,800000
+2000,Mike Matheny,Gold Glove,750000
+2012,Andrew McCutchen,Gold Glove,708333
+2012,Andrew McCutchen,Silver Slugger,708333
+2013,Pedro Alvarez,Silver Slugger,700000
+2016,Kris Bryant,Most Valuable Player,652000
+2009,Tim Lincecum,Cy Young Award,650000
+2016,Xander Bogaerts,Silver Slugger,650000
+2002,Alfonso Soriano,Silver Slugger,630000
+2001,Eric Chavez,Gold Glove,625000
+2012,Buster Posey,Most Valuable Player,615000
+2012,Buster Posey,Silver Slugger,615000
+2016,Mookie Betts,Silver Slugger,566000
+2016,Mookie Betts,Gold Glove,566000
+2012,Jason Heyward,Gold Glove,565000
+2003,Eric Gagne,Cy Young Award,550000
+2009,Evan Longoria,Gold Glove,550000
+2009,Evan Longoria,Silver Slugger,550000
+2014,Yan Gomes,Silver Slugger,550000
+2015,Manny Machado,Gold Glove,548000
+2016,Joe Panik,Gold Glove,545000
+2015,Xander Bogaerts,Silver Slugger,543000
+2016,Francisco Lindor,Platinum Glove,540300
+2016,Francisco Lindor,Gold Glove,540300
+2014,Kyle Seager,Gold Glove,540100
+2015,Kole Calhoun,Gold Glove,537500
+2013,Eric Hosmer,Gold Glove,528250
+2010,Joey Votto,Most Valuable Player,525000
+2015,Dallas Keuchel,Cy Young Award,524500
+2015,Dallas Keuchel,Gold Glove,524500
+2016,Ender Inciarte,Gold Glove,523000
+2003,Vernon Wells,Silver Slugger,520000
+2015,AJ Pollock,Gold Glove,519500
+2016,Kevin Kiermaier,Gold Glove,514400
+2014,Corey Kluber,Cy Young Award,514000
+2015,Kevin Kiermaier,Platinum Glove,513800
+2015,Kevin Kiermaier,Gold Glove,513800
+2012,Ian Desmond,Silver Slugger,512500
+2015,Nolan Arenado,Gold Glove,512500
+2015,Nolan Arenado,Silver Slugger,512500
+2013,Mike Trout,Silver Slugger,510000
+2016,Corey Seager,Silver Slugger,510000
+2016,Corey Seager,Rookie of the Year,510000
+2014,Dallas Keuchel,Gold Glove,508700
+2014,Juan Lagares,Gold Glove,506636
+2014,Christian Yelich,Gold Glove,505000
+2013,Matt Carpenter,Silver Slugger,504000
+2014,DJ LeMahieu,Gold Glove,501000
+2006,Chase Utley,Silver Slugger,500000
+2006,Matt Holliday,Silver Slugger,500000
+2011,Clayton Kershaw,Cy Young Award,500000
+2011,Clayton Kershaw,Gold Glove,500000
+2011,Clayton Kershaw,Pitching Triple Crown,500000
+2012,Matt Wieters,Gold Glove,500000
+2012,Darwin Barney,Gold Glove,500000
+2013,Paul Goldschmidt,Gold Glove,500000
+2013,Paul Goldschmidt,Silver Slugger,500000
+2014,Nolan Arenado,Gold Glove,500000
+2013,Manny Machado,Platinum Glove,495000
+2013,Manny Machado,Gold Glove,495000
+2013,Andrelton Simmons,Platinum Glove,491250
+2013,Andrelton Simmons,Gold Glove,491250
+2012,Jeremy Hellickson,Gold Glove,489500
+2012,Josh Reddick,Gold Glove,485000
+2008,Shane Victorino,Gold Glove,480000
+2006,Miguel Cabrera,Silver Slugger,472000
+2009,Matt Kemp,Gold Glove,467000
+2009,Matt Kemp,Silver Slugger,467000
+2008,Dustin Pedroia,Gold Glove,457000
+2008,Dustin Pedroia,Most Valuable Player,457000
+2008,Dustin Pedroia,Silver Slugger,457000
+2008,Ryan Braun,Silver Slugger,455000
+2011,Matt Wieters,Gold Glove,452250
+2005,Morgan Ensberg,Silver Slugger,450000
+2010,Yovani Gallardo,Silver Slugger,450000
+2008,Hanley Ramirez,Silver Slugger,439000
+2009,Adam Jones,Gold Glove,435000
+2009,Michael Bourn,Gold Glove,434500
+2007,Jeff Francoeur,Gold Glove,427500
+2011,Gerardo Parra,Gold Glove,426000
+2000,Magglio Ordonez,Silver Slugger,425000
+2008,Nate McLouth,Gold Glove,425000
+2011,Alex Avila,Silver Slugger,425000
+2007,Kevin Youkilis,Gold Glove,424500
+2011,Craig Kimbrel,Rookie of the Year,419000
+2011,Daniel Hudson,Silver Slugger,419000
+2011,Jeremy Hellickson,Rookie of the Year,418400
+2005,Felipe Lopez,Silver Slugger,415000
+2007,Prince Fielder,Silver Slugger,415000
+2009,Adam Lind,Silver Slugger,411800
+2008,Ryan Ludwick,Silver Slugger,411000
+2010,Carlos Gonzalez,Gold Glove,406000
+2010,Carlos Gonzalez,Silver Slugger,406000
+2008,Tim Lincecum,Cy Young Award,405000
+2010,Neftali Feliz,Rookie of the Year,402000
+2006,Jose Reyes,Silver Slugger,401500
+2008,Geovany Soto,Rookie of the Year,401000
+2006,Joe Mauer,Silver Slugger,400000
+2008,Carlos Quentin,Silver Slugger,400000
+2009,Andrew Bailey,Rookie of the Year,400000
+2008,Josh Hamilton,Silver Slugger,396830
+2007,Russell Martin,Gold Glove,387500
+2007,Russell Martin,Silver Slugger,387500
+2006,Justin Morneau,Most Valuable Player,385000
+2006,Justin Morneau,Silver Slugger,385000
+2006,Robinson Cano,Silver Slugger,381000
+2007,Dustin Pedroia,Rookie of the Year,380000
+2005,Miguel Cabrera,Silver Slugger,370000
+2005,Orlando Hudson,Gold Glove,365000
+2004,Cesar Izturis,Gold Glove,358500
+2006,Ryan Howard,Most Valuable Player,355000
+2006,Ryan Howard,Silver Slugger,355000
+2002,Bengie Molina,Gold Glove,350000
+2001,Orlando Cabrera,Gold Glove,340000
+2006,Brian McCann,Silver Slugger,333500
+2006,Hanley Ramirez,Rookie of the Year,327000
+2005,Huston Street,Rookie of the Year,316000
+2004,Johnny Estrada,Silver Slugger,312500
+2004,Jason Bay,Rookie of the Year,305000
+2004,Victor Martinez,Silver Slugger,304500
+2003,Angel Berroa,Rookie of the Year,302000
+2004,Bobby Crosby,Rookie of the Year,300500
+2002,Barry Zito,Cy Young Award,295000
+2000,Troy Glaus,Silver Slugger,275000
+2003,Dontrelle Willis,Rookie of the Year,234426
+2001,Torii Hunter,Gold Glove,230000
+2001,Doug Mientkiewicz,Gold Glove,215000
+2002,Jason Jennings,Rookie of the Year,206000
+2000,Rafael Furcal,Rookie of the Year,200000
+2001,Albert Pujols,Rookie of the Year,200000
+2001,Albert Pujols,Silver Slugger,200000
+2002,Eric Hinske,Rookie of the Year,200000

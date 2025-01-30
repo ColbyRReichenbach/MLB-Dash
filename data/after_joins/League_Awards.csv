@@ -1,0 +1,1048 @@
+yearID,awardID,playerID,Position,Tie,playerName
+2023,Cy Young Award,snellbl01,,No,Blake Snell
+2023,Cy Young Award,colege01,,No,Gerrit Cole
+2023,Gold Glove,lowena01,1B,No,Nathaniel Lowe
+2023,Gold Glove,walkech02,1B,No,Christian Walker
+2023,Gold Glove,gimenan01,2B,No,Andres Gimenez
+2023,Gold Glove,hoernni01,2B,No,Nico Hoerner
+2023,Gold Glove,chapmma01,3B,No,Matt Chapman
+2023,Gold Glove,hayeske01,3B,No,Ke'Bryan Hayes
+2023,Gold Glove,heimjo01,C,No,Jonah Heim
+2023,Gold Glove,morenga01,C,No,Gabriel Moreno
+2023,Gold Glove,doylebr02,OF,No,Brenton Doyle
+2023,Gold Glove,garciad02,OF,No,Adolis Garcia
+2023,Gold Glove,happia01,OF,No,Ian Happ
+2023,Gold Glove,kiermke01,OF,No,Kevin Kiermaier
+2023,Gold Glove,kwanst01,OF,No,Steven Kwan
+2023,Gold Glove,tatisfe02,OF,No,Fernando Tatis
+2023,Gold Glove,berrijo01,P,No,Jose Berrios
+2023,Gold Glove,wheelza01,P,No,Zack Wheeler
+2023,Gold Glove,swansda01,SS,No,Dansby Swanson
+2023,Gold Glove,volpean01,SS,No,Anthony Volpe
+2023,Gold Glove,dubonma01,UT,No,Mauricio Dubon
+2023,Gold Glove,kimha01,UT,No,Ha-Seong Kim
+2023,Most Valuable Player,acunaro01,,No,Ronald Acuna
+2023,Most Valuable Player,ohtansh01,,No,Shohei Ohtani
+2023,Platinum Glove,gimenan01,,No,Andres Gimenez
+2023,Platinum Glove,tatisfe02,,No,Fernando Tatis
+2023,Rookie of the Year,carroco02,,No,Corbin Carroll
+2023,Rookie of the Year,hendegu01,,No,Gunnar Henderson
+2023,Silver Slugger,diazya01,1B,No,Yandy Diaz
+2023,Silver Slugger,olsonma02,1B,No,Matt Olson
+2023,Silver Slugger,arraelu01,2B,No,Luis Arraez
+2023,Silver Slugger,semiema01,2B,No,Marcus Semien
+2023,Silver Slugger,deverra01,3B,No,Rafael Devers
+2023,Silver Slugger,rileyau01,3B,No,Austin Riley
+2023,Silver Slugger,contrwi02,C,No,William Contreras
+2023,Silver Slugger,rutscad01,C,No,Adley Rutschman
+2023,Silver Slugger,harpebr03,DH,No,Bryce Harper
+2023,Silver Slugger,ohtansh01,DH,No,Shohei Ohtani
+2023,Silver Slugger,acunaro01,OF,No,Ronald Acuna
+2023,Silver Slugger,bettsmo01,OF,No,Mookie Betts
+2023,Silver Slugger,roberlu01,OF,No,Luis Robert
+2023,Silver Slugger,rodriju01,OF,No,Julio Rodriguez
+2023,Silver Slugger,sotoju01,OF,No,Juan Soto
+2023,Silver Slugger,tuckeky01,OF,No,Kyle Tucker
+2023,Silver Slugger,lindofr01,SS,No,Francisco Lindor
+2023,Silver Slugger,seageco01,SS,No,Corey Seager
+2023,Silver Slugger,bellico01,UT,No,Cody Bellinger
+2023,Silver Slugger,hendegu01,UT,No,Gunnar Henderson
+2022,Cy Young Award,verlaju01,,No,Justin Verlander
+2022,Cy Young Award,alcansa01,,No,Sandy Alcantara
+2022,Gold Glove,guerrvl02,1B,No,Vladimir Guerrero
+2022,Gold Glove,walkech02,1B,No,Christian Walker
+2022,Gold Glove,gimenan01,2B,No,Andres Gimenez
+2022,Gold Glove,rodgebr02,2B,No,Brendan Rodgers
+2022,Gold Glove,arenano01,3B,No,Nolan Arenado
+2022,Gold Glove,uriasra01,3B,No,Ramon Urias
+2022,Gold Glove,realmjt01,C,No,J. T. Realmuto
+2022,Gold Glove,trevijo01,C,No,Jose Trevino
+2022,Gold Glove,bettsmo01,OF,No,Mookie Betts
+2022,Gold Glove,grishtr01,OF,No,Trent Grisham
+2022,Gold Glove,happia01,OF,No,Ian Happ
+2022,Gold Glove,kwanst01,OF,No,Steven Kwan
+2022,Gold Glove,strawmy01,OF,No,Myles Straw
+2022,Gold Glove,tuckeky01,OF,No,Kyle Tucker
+2022,Gold Glove,biebesh01,P,No,Shane Bieber
+2022,Gold Glove,friedma01,P,No,Max Fried
+2022,Gold Glove,penaje02,SS,No,Jeremy Pena
+2022,Gold Glove,swansda01,SS,No,Dansby Swanson
+2022,Gold Glove,donovbr01,UT,No,Brendan Donovan
+2022,Gold Glove,lemahdj01,UT,No,DJ LeMahieu
+2022,Most Valuable Player,judgeaa01,,No,Aaron Judge
+2022,Most Valuable Player,goldspa01,,No,Paul Goldschmidt
+2022,Platinum Glove,trevijo01,,No,Jose Trevino
+2022,Platinum Glove,arenano01,,No,Nolan Arenado
+2022,Rookie of the Year,rodriju01,,No,Julio Rodriguez
+2022,Rookie of the Year,harrimi04,,No,Michael Harris
+2022,Silver Slugger,goldspa01,1B,No,Paul Goldschmidt
+2022,Silver Slugger,lowena01,1B,No,Nathaniel Lowe
+2022,Silver Slugger,altuvjo01,2B,No,Jose Altuve
+2022,Silver Slugger,mcneije01,2B,No,Jeff McNeil
+2022,Silver Slugger,arenano01,3B,No,Nolan Arenado
+2022,Silver Slugger,ramirjo01,3B,No,Jose Ramirez
+2022,Silver Slugger,kirkal01,C,No,Alejandro Kirk
+2022,Silver Slugger,realmjt01,C,No,J. T. Realmuto
+2022,Silver Slugger,alvaryo01,DH,No,Yordan Alvarez
+2022,Silver Slugger,belljo02,DH,No,Josh Bell
+2022,Silver Slugger,bettsmo01,OF,No,Mookie Betts
+2022,Silver Slugger,judgeaa01,OF,No,Aaron Judge
+2022,Silver Slugger,rodriju01,OF,No,Julio Rodriguez
+2022,Silver Slugger,schwaky01,OF,No,Kyle Schwarber
+2022,Silver Slugger,sotoju01,OF,No,Juan Soto
+2022,Silver Slugger,troutmi01,OF,No,Mike Trout
+2022,Silver Slugger,bogaexa01,SS,No,Xander Bogaerts
+2022,Silver Slugger,turnetr01,SS,No,Trea Turner
+2022,Silver Slugger,arraelu01,UT,No,Luis Arraez
+2022,Silver Slugger,drurybr01,UT,No,Brandon Drury
+2021,Cy Young Award,rayro02,,No,Robbie Ray
+2021,Cy Young Award,burneco01,,No,Corbin Burnes
+2021,Gold Glove,murphse01,C,No,Sean Murphy
+2021,Gold Glove,gourryu01,1B,No,Yuli Gurriel
+2021,Gold Glove,semiema01,2B,No,Marcus Semien
+2021,Gold Glove,chapmma01,3B,No,Matt Chapman
+2021,Gold Glove,correca01,SS,No,Carlos Correa
+2021,Gold Glove,taylomi02,LF,No,Michael Taylor
+2021,Gold Glove,gallojo01,CF,No,Joey Gallo
+2021,Gold Glove,beninan01,RF,No,Andrew Benintendi
+2021,Gold Glove,keuchda01,P,No,Dallas Keuchel
+2021,Gold Glove,stallja01,C,No,Jacob Stallings
+2021,Gold Glove,goldspa01,1B,No,Paul Goldschmidt
+2021,Gold Glove,edmanto01,2B,No,Tommy Edman
+2021,Gold Glove,arenano01,3B,No,Nolan Arenado
+2021,Gold Glove,crawfbr01,SS,No,Brandon Crawford
+2021,Gold Glove,oneilty01,LF,No,Tyler O'Neill
+2021,Gold Glove,duvalad01,CF,No,Adam Duvall
+2021,Gold Glove,baderha01,RF,No,Harrison Bader
+2021,Gold Glove,friedma01,P,No,Max Fried
+2021,Most Valuable Player,ohtansh01,,No,Shohei Ohtani
+2021,Most Valuable Player,harpebr03,,No,Bryce Harper
+2021,Platinum Glove,correca01,,No,Carlos Correa
+2021,Platinum Glove,arenano01,,No,Nolan Arenado
+2021,Rookie of the Year,arozara01,,No,Randy Arozarena
+2021,Rookie of the Year,indiajo01,,No,Jonathan India
+2021,Silver Slugger,friedma01,P,No,Max Fried
+2021,Silver Slugger,perezsa02,C,No,Salvador Perez
+2021,Silver Slugger,guerrvl02,1B,No,Vladimir Guerrero
+2021,Silver Slugger,semiema01,2B,No,Marcus Semien
+2021,Silver Slugger,deverra01,3B,No,Rafael Devers
+2021,Silver Slugger,mullice01,OF,No,Cedric Mullins
+2021,Silver Slugger,judgeaa01,OF,No,Aaron Judge
+2021,Silver Slugger,hernate01,OF,No,Teoscar Hernandez
+2021,Silver Slugger,ohtansh01,DH,No,Shohei Ohtani
+2021,Silver Slugger,poseybu01,C,No,Buster Posey
+2021,Silver Slugger,freemfr01,1B,No,Freddie Freeman
+2021,Silver Slugger,albieoz01,2B,No,Ozzie Albies
+2021,Silver Slugger,rileyau01,3B,No,Austin Riley
+2021,Silver Slugger,tatisfe02,SS,No,Fernando Tatis
+2021,Silver Slugger,harpebr03,OF,No,Bryce Harper
+2021,Silver Slugger,casteni01,OF,No,Nick Castellanos
+2021,Silver Slugger,sotoju01,OF,No,Juan Soto
+2020,Cy Young Award,biebesh01,,No,Shane Bieber
+2020,Cy Young Award,bauertr01,,No,Trevor Bauer
+2020,Gold Glove,kineris01,3B,No,Isiah Kiner-Falefa
+2020,Gold Glove,crawfjp01,SS,No,J. P. Crawford
+2020,Gold Glove,roberlu01,LF,No,Luis Robert
+2020,Gold Glove,gordoal01,CF,No,Alex Gordon
+2020,Gold Glove,gallojo01,RF,No,Joey Gallo
+2020,Gold Glove,cannigr01,P,No,Griffin Canning
+2020,Gold Glove,barnhtu01,C,No,Tucker Barnhart
+2020,Gold Glove,rizzoan01,1B,No,Anthony Rizzo
+2020,Gold Glove,wongko01,2B,No,Kolten Wong
+2020,Gold Glove,arenano01,3B,No,Nolan Arenado
+2020,Gold Glove,baezja01,SS,No,Javier Baez
+2020,Gold Glove,oneilty01,LF,No,Tyler O'Neill
+2020,Gold Glove,grishtr01,CF,No,Trent Grisham
+2020,Gold Glove,bettsmo01,RF,No,Mookie Betts
+2020,Gold Glove,friedma01,P,No,Max Fried
+2020,Gold Glove,perezro02,C,No,Roberto Perez
+2020,Gold Glove,whiteev01,1B,No,Evan White
+2020,Gold Glove,hernace02,2B,No,Cesar Hernandez
+2020,Most Valuable Player,abreujo02,,No,Jose Abreu
+2020,Most Valuable Player,freemfr01,,No,Freddie Freeman
+2020,Pitching Triple Crown,biebesh01,,No,Shane Bieber
+2020,Platinum Glove,gordoal01,,No,Alex Gordon
+2020,Platinum Glove,arenano01,,No,Nolan Arenado
+2020,Rookie of the Year,lewisky01,,No,Kyle Lewis
+2020,Rookie of the Year,willide03,,No,Devin Williams
+2020,Silver Slugger,ozunama01,DH,No,Marcell Ozuna
+2020,Silver Slugger,perezsa02,C,No,Salvador Perez
+2020,Silver Slugger,abreujo02,1B,No,Jose Abreu
+2020,Silver Slugger,lemahdj01,2B,No,DJ LeMahieu
+2020,Silver Slugger,ramirjo01,3B,No,Jose Ramirez
+2020,Silver Slugger,jimenel02,OF,No,Eloy Jimenez
+2020,Silver Slugger,hernate01,OF,No,Teoscar Hernandez
+2020,Silver Slugger,troutmi01,OF,No,Mike Trout
+2020,Silver Slugger,cruzne02,DH,No,Nelson Cruz
+2020,Silver Slugger,darnatr01,C,No,Travis d'Arnaud
+2020,Silver Slugger,freemfr01,1B,No,Freddie Freeman
+2020,Silver Slugger,solando01,2B,No,Donovan Solano
+2020,Silver Slugger,machama01,3B,No,Manny Machado
+2020,Silver Slugger,tatisfe02,SS,No,Fernando Tatis
+2020,Silver Slugger,sotoju01,OF,No,Juan Soto
+2020,Silver Slugger,bettsmo01,OF,No,Mookie Betts
+2020,Silver Slugger,acunaro01,OF,No,Ronald Acuna
+2019,Cy Young Award,verlaju01,,No,Justin Verlander
+2019,Cy Young Award,degroja01,,No,Jacob deGrom
+2019,Gold Glove,perezro02,C,No,Roberto Perez
+2019,Gold Glove,olsonma02,1B,No,Matt Olson
+2019,Gold Glove,sanchca01,2B,No,Carlos Sanchez
+2019,Gold Glove,chapmma01,3B,No,Matt Chapman
+2019,Gold Glove,lindofr01,SS,No,Francisco Lindor
+2019,Gold Glove,gordoal01,LF,No,Alex Gordon
+2019,Gold Glove,kiermke01,CF,No,Kevin Kiermaier
+2019,Gold Glove,bettsmo01,RF,No,Mookie Betts
+2019,Gold Glove,leakemi01,P,No,Mike Leake
+2019,Gold Glove,realmjt01,C,No,J. T. Realmuto
+2019,Gold Glove,rizzoan01,1B,No,Anthony Rizzo
+2019,Gold Glove,wongko01,2B,No,Kolten Wong
+2019,Gold Glove,arenano01,3B,No,Nolan Arenado
+2019,Gold Glove,ahmedni01,SS,No,Nick Ahmed
+2019,Gold Glove,cainlo01,LF,No,Lorenzo Cain
+2019,Gold Glove,bellico01,CF,No,Cody Bellinger
+2019,Gold Glove,peralda01,RF,No,David Peralta
+2019,Gold Glove,greinza01,P,No,Zack Greinke
+2019,Most Valuable Player,troutmi01,,No,Mike Trout
+2019,Most Valuable Player,bellico01,,No,Cody Bellinger
+2019,Platinum Glove,chapmma01,,No,Matt Chapman
+2019,Platinum Glove,arenano01,,No,Nolan Arenado
+2019,Rookie of the Year,alvaryo01,,No,Yordan Alvarez
+2019,Rookie of the Year,alonspe01,,No,Pete Alonso
+2019,Silver Slugger,garvemi01,C,No,Mitch Garver
+2019,Silver Slugger,santaca01,1B,No,Carlos Santana
+2019,Silver Slugger,lemahdj01,2B,No,DJ LeMahieu
+2019,Silver Slugger,bregmal01,3B,No,Alex Bregman
+2019,Silver Slugger,springe01,OF,No,George Springer
+2019,Silver Slugger,troutmi01,OF,No,Mike Trout
+2019,Silver Slugger,bettsmo01,OF,No,Mookie Betts
+2019,Silver Slugger,cruzne02,DH,No,Nelson Cruz
+2019,Silver Slugger,realmjt01,C,No,J. T. Realmuto
+2019,Silver Slugger,freemfr01,1B,No,Freddie Freeman
+2019,Silver Slugger,albieoz01,2B,No,Ozzie Albies
+2019,Silver Slugger,rendoan01,3B,No,Anthony Rendon
+2019,Silver Slugger,storytr01,SS,No,Trevor Story
+2019,Silver Slugger,acunaro01,OF,No,Ronald Acuna
+2019,Silver Slugger,yelicch01,OF,No,Christian Yelich
+2019,Silver Slugger,bellico01,OF,No,Cody Bellinger
+2019,Silver Slugger,greinza01,P,No,Zack Greinke
+2018,Cy Young Award,snellbl01,,No,Blake Snell
+2018,Cy Young Award,degroja01,,No,Jacob deGrom
+2018,Gold Glove,freemfr01,1B,Y,Freddie Freeman
+2018,Gold Glove,perezsa02,C,No,Salvador Perez
+2018,Gold Glove,olsonma02,1B,No,Matt Olson
+2018,Gold Glove,kinslia01,2B,No,Ian Kinsler
+2018,Gold Glove,chapmma01,3B,No,Matt Chapman
+2018,Gold Glove,simmoan01,SS,No,Andrelton Simmons
+2018,Gold Glove,gordoal01,LF,No,Alex Gordon
+2018,Gold Glove,bradlja02,CF,No,Jackie Bradley
+2018,Gold Glove,bettsmo01,RF,No,Mookie Betts
+2018,Gold Glove,keuchda01,P,No,Dallas Keuchel
+2018,Gold Glove,molinya01,C,No,Yadier Molina
+2018,Gold Glove,rizzoan01,1B,Y,Anthony Rizzo
+2018,Gold Glove,lemahdj01,2B,No,DJ LeMahieu
+2018,Gold Glove,arenano01,3B,No,Nolan Arenado
+2018,Gold Glove,ahmedni01,SS,No,Nick Ahmed
+2018,Gold Glove,dickeco01,LF,No,Corey Dickerson
+2018,Gold Glove,inciaen01,CF,No,Ender Inciarte
+2018,Gold Glove,markani01,RF,No,Nick Markakis
+2018,Gold Glove,greinza01,P,No,Zack Greinke
+2018,Most Valuable Player,bettsmo01,,No,Mookie Betts
+2018,Most Valuable Player,yelicch01,,No,Christian Yelich
+2018,Platinum Glove,chapmma01,,No,Matt Chapman
+2018,Platinum Glove,arenano01,,No,Nolan Arenado
+2018,Rookie of the Year,ohtansh01,,No,Shohei Ohtani
+2018,Rookie of the Year,acunaro01,,No,Ronald Acuna
+2018,Silver Slugger,perezsa02,C,No,Salvador Perez
+2018,Silver Slugger,abreujo02,1B,No,Jose Abreu
+2018,Silver Slugger,altuvjo01,2B,No,Jose Altuve
+2018,Silver Slugger,ramirjo01,3B,No,Jose Ramirez
+2018,Silver Slugger,martijd02,OF,No,J. D. Martinez
+2018,Silver Slugger,troutmi01,OF,No,Mike Trout
+2018,Silver Slugger,bettsmo01,OF,No,Mookie Betts
+2018,Silver Slugger,martijd02,DH,No,J. D. Martinez
+2018,Silver Slugger,realmjt01,C,No,J. T. Realmuto
+2018,Silver Slugger,goldspa01,1B,No,Paul Goldschmidt
+2018,Silver Slugger,baezja01,2B,No,Javier Baez
+2018,Silver Slugger,arenano01,3B,No,Nolan Arenado
+2018,Silver Slugger,storytr01,SS,No,Trevor Story
+2018,Silver Slugger,markani01,OF,No,Nick Markakis
+2018,Silver Slugger,peralda01,OF,No,David Peralta
+2018,Silver Slugger,yelicch01,OF,No,Christian Yelich
+2018,Silver Slugger,marquge01,P,No,German Marquez
+2017,Cy Young Award,klubeco01,,No,Corey Kluber
+2017,Cy Young Award,scherma01,,No,Max Scherzer
+2017,Gold Glove,ozunama01,LF,No,Marcell Ozuna
+2017,Gold Glove,inciaen01,CF,No,Ender Inciarte
+2017,Gold Glove,heywaja01,RF,No,Jason Heyward
+2017,Gold Glove,greinza01,P,No,Zack Greinke
+2017,Gold Glove,maldoma01,C,No,Martin Maldonado
+2017,Gold Glove,hosmeer01,1B,No,Eric Hosmer
+2017,Gold Glove,doziebr01,2B,No,Brian Dozier
+2017,Gold Glove,longoev01,3B,No,Evan Longoria
+2017,Gold Glove,simmoan01,SS,No,Andrelton Simmons
+2017,Gold Glove,gordoal01,LF,No,Alex Gordon
+2017,Gold Glove,buxtoby01,CF,No,Byron Buxton
+2017,Gold Glove,bettsmo01,RF,No,Mookie Betts
+2017,Gold Glove,stromma01,P,No,Marcus Stroman
+2017,Gold Glove,barnhtu01,C,No,Tucker Barnhart
+2017,Gold Glove,goldspa01,1B,No,Paul Goldschmidt
+2017,Gold Glove,lemahdj01,2B,No,DJ LeMahieu
+2017,Gold Glove,arenano01,3B,No,Nolan Arenado
+2017,Gold Glove,crawfbr01,SS,No,Brandon Crawford
+2017,Most Valuable Player,altuvjo01,,No,Jose Altuve
+2017,Most Valuable Player,stantmi03,,No,Giancarlo Stanton
+2017,Platinum Glove,buxtoby01,,No,Byron Buxton
+2017,Platinum Glove,arenano01,,No,Nolan Arenado
+2017,Rookie of the Year,judgeaa01,,No,Aaron Judge
+2017,Rookie of the Year,bellico01,,No,Cody Bellinger
+2017,Silver Slugger,sanchga02,C,No,Gary Sanchez
+2017,Silver Slugger,hosmeer01,1B,No,Eric Hosmer
+2017,Silver Slugger,altuvjo01,2B,No,Jose Altuve
+2017,Silver Slugger,ramirjo01,3B,No,Jose Ramirez
+2017,Silver Slugger,judgeaa01,OF,No,Aaron Judge
+2017,Silver Slugger,springe01,OF,No,George Springer
+2017,Silver Slugger,uptonju01,OF,No,Justin Upton
+2017,Silver Slugger,cruzne02,DH,No,Nelson Cruz
+2017,Silver Slugger,poseybu01,C,No,Buster Posey
+2017,Silver Slugger,goldspa01,1B,No,Paul Goldschmidt
+2017,Silver Slugger,murphda08,2B,No,Daniel Murphy
+2017,Silver Slugger,arenano01,3B,No,Nolan Arenado
+2017,Silver Slugger,seageco01,SS,No,Corey Seager
+2017,Silver Slugger,stantmi03,OF,No,Giancarlo Stanton
+2017,Silver Slugger,ozunama01,OF,No,Marcell Ozuna
+2017,Silver Slugger,blackch02,OF,No,Charlie Blackmon
+2017,Silver Slugger,wainwad01,P,No,Adam Wainwright
+2016,Cy Young Award,porceri01,,No,Rick Porcello
+2016,Cy Young Award,scherma01,,No,Max Scherzer
+2016,Gold Glove,perezsa02,C,No,Salvador Perez
+2016,Gold Glove,morelmi01,1B,No,Mitch Moreland
+2016,Gold Glove,kinslia01,2B,No,Ian Kinsler
+2016,Gold Glove,beltrad01,3B,No,Adrian Beltre
+2016,Gold Glove,lindofr01,SS,No,Francisco Lindor
+2016,Gold Glove,gardnbr01,OF,No,Brett Gardner
+2016,Gold Glove,kiermke01,OF,No,Kevin Kiermaier
+2016,Gold Glove,bettsmo01,OF,No,Mookie Betts
+2016,Gold Glove,keuchda01,P,No,Dallas Keuchel
+2016,Gold Glove,poseybu01,C,No,Buster Posey
+2016,Gold Glove,rizzoan01,1B,No,Anthony Rizzo
+2016,Gold Glove,panikjo01,2B,No,Joe Panik
+2016,Gold Glove,arenano01,3B,No,Nolan Arenado
+2016,Gold Glove,crawfbr01,SS,No,Brandon Crawford
+2016,Gold Glove,martest01,OF,No,Starling Marte
+2016,Gold Glove,inciaen01,OF,No,Ender Inciarte
+2016,Gold Glove,heywaja01,OF,No,Jason Heyward
+2016,Gold Glove,greinza01,P,No,Zack Greinke
+2016,Most Valuable Player,troutmi01,,No,Mike Trout
+2016,Most Valuable Player,bryankr01,,No,Kris Bryant
+2016,Platinum Glove,rizzoan01,,No,Anthony Rizzo
+2016,Platinum Glove,lindofr01,,No,Francisco Lindor
+2016,Rookie of the Year,fulmemi01,,No,Michael Fulmer
+2016,Rookie of the Year,seageco01,Unanimous,No,Corey Seager
+2016,Silver Slugger,perezsa02,C,No,Salvador Perez
+2016,Silver Slugger,cabremi01,1B,No,Miguel Cabrera
+2016,Silver Slugger,altuvjo01,2B,No,Jose Altuve
+2016,Silver Slugger,donaljo02,3B,No,Josh Donaldson
+2016,Silver Slugger,bogaexa01,SS,No,Xander Bogaerts
+2016,Silver Slugger,bettsmo01,OF,No,Mookie Betts
+2016,Silver Slugger,troutmi01,OF,No,Mike Trout
+2016,Silver Slugger,trumbma01,OF,No,Mark Trumbo
+2016,Silver Slugger,ortizda01,DH,No,David Ortiz
+2016,Silver Slugger,ramoswi01,C,No,Wilson Ramos
+2016,Silver Slugger,rizzoan01,1B,No,Anthony Rizzo
+2016,Silver Slugger,murphda08,2B,No,Daniel Murphy
+2016,Silver Slugger,arenano01,3B,No,Nolan Arenado
+2016,Silver Slugger,seageco01,SS,No,Corey Seager
+2016,Silver Slugger,blackch02,OF,No,Charlie Blackmon
+2016,Silver Slugger,cespeyo01,OF,No,Yoenis Cespedes
+2016,Silver Slugger,yelicch01,OF,No,Christian Yelich
+2016,Silver Slugger,arrieja01,P,No,Jake Arrieta
+2015,Cy Young Award,keuchda01,,No,Dallas Keuchel
+2015,Cy Young Award,arrieja01,,No,Jake Arrieta
+2015,Gold Glove,hosmeer01,1B,No,Eric Hosmer
+2015,Gold Glove,altuvjo01,2B,No,Jose Altuve
+2015,Gold Glove,machama01,3B,No,Manny Machado
+2015,Gold Glove,perezsa02,C,No,Salvador Perez
+2015,Gold Glove,kiermke01,CF,No,Kevin Kiermaier
+2015,Gold Glove,cespeyo01,LF,No,Yoenis Cespedes
+2015,Gold Glove,keuchda01,P,No,Dallas Keuchel
+2015,Gold Glove,calhoko01,RF,No,Kole Calhoun
+2015,Gold Glove,escobal02,SS,No,Alcides Escobar
+2015,Gold Glove,goldspa01,1B,No,Paul Goldschmidt
+2015,Gold Glove,gordode01,2B,No,Dee Strange-Gordon
+2015,Gold Glove,arenano01,3B,No,Nolan Arenado
+2015,Gold Glove,molinya01,C,No,Yadier Molina
+2015,Gold Glove,polloaj01,CF,No,AJ Pollock
+2015,Gold Glove,martest01,LF,No,Starling Marte
+2015,Gold Glove,greinza01,P,No,Zack Greinke
+2015,Gold Glove,heywaja01,RF,No,Jason Heyward
+2015,Gold Glove,crawfbr01,SS,No,Brandon Crawford
+2015,Most Valuable Player,donaljo02,,No,Josh Donaldson
+2015,Most Valuable Player,harpebr03,,No,Bryce Harper
+2015,Platinum Glove,kiermke01,,No,Kevin Kiermaier
+2015,Platinum Glove,molinya01,,No,Yadier Molina
+2015,Rookie of the Year,correca01,,No,Carlos Correa
+2015,Rookie of the Year,bryankr01,,No,Kris Bryant
+2015,Silver Slugger,cabremi01,1B,No,Miguel Cabrera
+2015,Silver Slugger,altuvjo01,2B,No,Jose Altuve
+2015,Silver Slugger,donaljo02,3B,No,Josh Donaldson
+2015,Silver Slugger,mccanbr01,C,No,Brian McCann
+2015,Silver Slugger,moralke01,DH,No,Kendrys Morales
+2015,Silver Slugger,troutmi01,OF,No,Mike Trout
+2015,Silver Slugger,martijd02,OF,No,J. D. Martinez
+2015,Silver Slugger,cruzne02,OF,No,Nelson Cruz
+2015,Silver Slugger,bogaexa01,SS,No,Xander Bogaerts
+2015,Silver Slugger,goldspa01,1B,No,Paul Goldschmidt
+2015,Silver Slugger,gordode01,2B,No,Dee Strange-Gordon
+2015,Silver Slugger,arenano01,3B,No,Nolan Arenado
+2015,Silver Slugger,poseybu01,C,No,Buster Posey
+2015,Silver Slugger,harpebr03,OF,No,Bryce Harper
+2015,Silver Slugger,gonzaca01,OF,No,Carlos Gonzalez
+2015,Silver Slugger,mccutan01,OF,No,Andrew McCutchen
+2015,Silver Slugger,bumgama01,P,No,Madison Bumgarner
+2015,Silver Slugger,crawfbr01,SS,No,Brandon Crawford
+2014,Cy Young Award,klubeco01,,No,Corey Kluber
+2014,Cy Young Award,kershcl01,,No,Clayton Kershaw
+2014,Gold Glove,hosmeer01,1B,No,Eric Hosmer
+2014,Gold Glove,pedrodu01,2B,No,Dustin Pedroia
+2014,Gold Glove,seageky01,3B,No,Kyle Seager
+2014,Gold Glove,perezsa02,C,No,Salvador Perez
+2014,Gold Glove,markani01,CF,No,Nick Markakis
+2014,Gold Glove,gordoal01,LF,No,Alex Gordon
+2014,Gold Glove,keuchda01,P,No,Dallas Keuchel
+2014,Gold Glove,jonesad01,RF,No,Adam Jones
+2014,Gold Glove,hardyjj01,SS,No,J. J. Hardy
+2014,Gold Glove,gonzaad01,1B,No,Adrian Gonzalez
+2014,Gold Glove,lemahdj01,2B,No,DJ LeMahieu
+2014,Gold Glove,arenano01,3B,No,Nolan Arenado
+2014,Gold Glove,molinya01,C,No,Yadier Molina
+2014,Gold Glove,lagarju01,CF,No,Juan Lagares
+2014,Gold Glove,yelicch01,LF,No,Christian Yelich
+2014,Gold Glove,greinza01,P,No,Zack Greinke
+2014,Gold Glove,heywaja01,RF,No,Jason Heyward
+2014,Gold Glove,simmoan01,SS,No,Andrelton Simmons
+2014,Most Valuable Player,troutmi01,,No,Mike Trout
+2014,Most Valuable Player,kershcl01,,No,Clayton Kershaw
+2014,Platinum Glove,gordoal01,,No,Alex Gordon
+2014,Platinum Glove,molinya01,,No,Yadier Molina
+2014,Rookie of the Year,abreujo02,,No,Jose Abreu
+2014,Rookie of the Year,degroja01,,No,Jacob deGrom
+2014,Silver Slugger,abreujo02,1B,No,Jose Abreu
+2014,Silver Slugger,altuvjo01,2B,No,Jose Altuve
+2014,Silver Slugger,beltrad01,3B,No,Adrian Beltre
+2014,Silver Slugger,gomesya01,C,No,Yan Gomes
+2014,Silver Slugger,martivi01,DH,No,Victor Martinez
+2014,Silver Slugger,troutmi01,OF,No,Mike Trout
+2014,Silver Slugger,brantmi02,OF,No,Michael Brantley
+2014,Silver Slugger,bautijo02,OF,No,Jose Bautista
+2014,Silver Slugger,ramiral03,SS,No,Alexei Ramirez
+2014,Silver Slugger,gonzaad01,1B,No,Adrian Gonzalez
+2014,Silver Slugger,walkene01,2B,No,Neil Walker
+2014,Silver Slugger,rendoan01,3B,No,Anthony Rendon
+2014,Silver Slugger,poseybu01,C,No,Buster Posey
+2014,Silver Slugger,uptonju01,OF,No,Justin Upton
+2014,Silver Slugger,stantmi03,OF,No,Giancarlo Stanton
+2014,Silver Slugger,mccutan01,OF,No,Andrew McCutchen
+2014,Silver Slugger,bumgama01,P,No,Madison Bumgarner
+2014,Silver Slugger,desmoia01,SS,No,Ian Desmond
+2013,Cy Young Award,scherma01,,No,Max Scherzer
+2013,Cy Young Award,kershcl01,,No,Clayton Kershaw
+2013,Gold Glove,hosmeer01,1B,No,Eric Hosmer
+2013,Gold Glove,pedrodu01,2B,No,Dustin Pedroia
+2013,Gold Glove,machama01,3B,No,Manny Machado
+2013,Gold Glove,perezsa02,C,No,Salvador Perez
+2013,Gold Glove,jonesad01,CF,No,Adam Jones
+2013,Gold Glove,gordoal01,LF,No,Alex Gordon
+2013,Gold Glove,dickera01,P,No,R. A. Dickey
+2013,Gold Glove,victosh01,RF,No,Shane Victorino
+2013,Gold Glove,hardyjj01,SS,No,J. J. Hardy
+2013,Gold Glove,goldspa01,1B,No,Paul Goldschmidt
+2013,Gold Glove,phillbr01,2B,No,Brandon Phillips
+2013,Gold Glove,arenano01,3B,No,Nolan Arenado
+2013,Gold Glove,molinya01,C,No,Yadier Molina
+2013,Gold Glove,gomezca01,CF,No,Carlos Gomez
+2013,Gold Glove,gonzaca01,LF,No,Carlos Gonzalez
+2013,Gold Glove,wainwad01,P,No,Adam Wainwright
+2013,Gold Glove,parrage01,RF,No,Gerardo Parra
+2013,Gold Glove,simmoan01,SS,No,Andrelton Simmons
+2013,Most Valuable Player,cabremi01,,No,Miguel Cabrera
+2013,Most Valuable Player,mccutan01,,No,Andrew McCutchen
+2013,Platinum Glove,simmoan01,,No,Andrelton Simmons
+2013,Platinum Glove,machama01,,No,Manny Machado
+2013,Rookie of the Year,myerswi01,,No,Wil Myers
+2013,Rookie of the Year,fernajo02,,No,Jose Fernandez
+2013,Silver Slugger,davisch02,1B,No,Chris Davis
+2013,Silver Slugger,canoro01,2B,No,Robinson Cano
+2013,Silver Slugger,cabremi01,3B,No,Miguel Cabrera
+2013,Silver Slugger,mauerjo01,C,No,Joe Mauer
+2013,Silver Slugger,ortizda01,DH,No,David Ortiz
+2013,Silver Slugger,hunteto01,OF,No,Torii Hunter
+2013,Silver Slugger,jonesad01,OF,No,Adam Jones
+2013,Silver Slugger,troutmi01,OF,No,Mike Trout
+2013,Silver Slugger,hardyjj01,SS,No,J. J. Hardy
+2013,Silver Slugger,goldspa01,1B,No,Paul Goldschmidt
+2013,Silver Slugger,carpema01,2B,No,Matt Carpenter
+2013,Silver Slugger,alvarpe01,3B,No,Pedro Alvarez
+2013,Silver Slugger,molinya01,C,No,Yadier Molina
+2013,Silver Slugger,bruceja01,OF,No,Jay Bruce
+2013,Silver Slugger,cuddymi01,OF,No,Michael Cuddyer
+2013,Silver Slugger,mccutan01,OF,No,Andrew McCutchen
+2013,Silver Slugger,greinza01,P,No,Zack Greinke
+2013,Silver Slugger,desmoia01,SS,No,Ian Desmond
+2012,Cy Young Award,priceda01,,No,David Price
+2012,Cy Young Award,dickera01,,No,R. A. Dickey
+2012,Gold Glove,teixema01,1B,No,Mark Teixeira
+2012,Gold Glove,canoro01,2B,No,Robinson Cano
+2012,Gold Glove,beltrad01,3B,No,Adrian Beltre
+2012,Gold Glove,wietema01,C,No,Matt Wieters
+2012,Gold Glove,jonesad01,CF,No,Adam Jones
+2012,Gold Glove,gordoal01,LF,No,Alex Gordon
+2012,Gold Glove,hellije01,P,No,Jeremy Hellickson
+2012,Gold Glove,reddijo01,RF,No,Josh Reddick
+2012,Gold Glove,hardyjj01,SS,No,J. J. Hardy
+2012,Gold Glove,larocad01,1B,No,Adam LaRoche
+2012,Gold Glove,barneda01,2B,No,Darwin Barney
+2012,Gold Glove,headlch01,3B,No,Chase Headley
+2012,Gold Glove,molinya01,C,No,Yadier Molina
+2012,Gold Glove,mccutan01,CF,No,Andrew McCutchen
+2012,Gold Glove,gonzaca01,LF,No,Carlos Gonzalez
+2012,Gold Glove,buehrma01,P,No,Mark Buehrle
+2012,Gold Glove,heywaja01,RF,No,Jason Heyward
+2012,Gold Glove,rolliji01,SS,No,Jimmy Rollins
+2012,Most Valuable Player,cabremi01,,No,Miguel Cabrera
+2012,Most Valuable Player,poseybu01,,No,Buster Posey
+2012,Platinum Glove,beltrad01,,No,Adrian Beltre
+2012,Platinum Glove,molinya01,,No,Yadier Molina
+2012,Rookie of the Year,troutmi01,,No,Mike Trout
+2012,Rookie of the Year,harpebr03,,No,Bryce Harper
+2012,Silver Slugger,fieldpr01,1B,No,Prince Fielder
+2012,Silver Slugger,canoro01,2B,No,Robinson Cano
+2012,Silver Slugger,cabremi01,3B,No,Miguel Cabrera
+2012,Silver Slugger,pierzaj01,C,No,A. J. Pierzynski
+2012,Silver Slugger,butlebi03,DH,No,Billy Butler
+2012,Silver Slugger,hamiljo03,OF,No,Josh Hamilton
+2012,Silver Slugger,troutmi01,OF,No,Mike Trout
+2012,Silver Slugger,willijo03,OF,No,Josh Willingham
+2012,Silver Slugger,jeterde01,SS,No,Derek Jeter
+2012,Silver Slugger,larocad01,1B,No,Adam LaRoche
+2012,Silver Slugger,hillaa01,2B,No,Aaron Hill
+2012,Silver Slugger,headlch01,3B,No,Chase Headley
+2012,Silver Slugger,poseybu01,C,No,Buster Posey
+2012,Silver Slugger,braunry01,OF,No,Ryan Braun
+2012,Silver Slugger,bruceja01,OF,No,Jay Bruce
+2012,Silver Slugger,mccutan01,OF,No,Andrew McCutchen
+2012,Silver Slugger,strasst01,P,No,Stephen Strasburg
+2012,Silver Slugger,desmoia01,SS,No,Ian Desmond
+2012,Triple Crown,cabremi01,,No,Miguel Cabrera
+2011,Cy Young Award,verlaju01,,No,Justin Verlander
+2011,Cy Young Award,kershcl01,,No,Clayton Kershaw
+2011,Gold Glove,gonzaad01,1B,No,Adrian Gonzalez
+2011,Gold Glove,pedrodu01,2B,No,Dustin Pedroia
+2011,Gold Glove,beltrad01,3B,No,Adrian Beltre
+2011,Gold Glove,wietema01,C,No,Matt Wieters
+2011,Gold Glove,ellsbja01,CF,No,Jacoby Ellsbury
+2011,Gold Glove,gordoal01,LF,No,Alex Gordon
+2011,Gold Glove,buehrma01,P,No,Mark Buehrle
+2011,Gold Glove,markani01,RF,No,Nick Markakis
+2011,Gold Glove,aybarer01,SS,No,Erick Aybar
+2011,Gold Glove,vottojo01,1B,No,Joey Votto
+2011,Gold Glove,phillbr01,2B,No,Brandon Phillips
+2011,Gold Glove,polanpl01,3B,No,Placido Polanco
+2011,Gold Glove,molinya01,C,No,Yadier Molina
+2011,Gold Glove,kempma01,CF,No,Matt Kemp
+2011,Gold Glove,parrage01,LF,No,Gerardo Parra
+2011,Gold Glove,kershcl01,P,No,Clayton Kershaw
+2011,Gold Glove,ethiean01,RF,No,Andre Ethier
+2011,Gold Glove,tulowtr01,SS,No,Troy Tulowitzki
+2011,Most Valuable Player,verlaju01,,No,Justin Verlander
+2011,Most Valuable Player,braunry02,,No,Ryan Braun
+2011,Pitching Triple Crown,verlaju01,,No,Justin Verlander
+2011,Pitching Triple Crown,kershcl01,,No,Clayton Kershaw
+2011,Platinum Glove,beltrad01,,No,Adrian Beltre
+2011,Platinum Glove,molinya01,,No,Yadier Molina
+2011,Rookie of the Year,hellije01,,No,Jeremy Hellickson
+2011,Rookie of the Year,kimbrcr01,,No,Craig Kimbrel
+2011,Silver Slugger,gonzaad01,1B,No,Adrian Gonzalez
+2011,Silver Slugger,canoro01,2B,No,Robinson Cano
+2011,Silver Slugger,beltrad01,3B,No,Adrian Beltre
+2011,Silver Slugger,avilaal01,C,No,Alex Avila
+2011,Silver Slugger,ortizda01,DH,No,David Ortiz
+2011,Silver Slugger,bautijo02,OF,No,Jose Bautista
+2011,Silver Slugger,ellsbja01,OF,No,Jacoby Ellsbury
+2011,Silver Slugger,grandcu01,OF,No,Curtis Granderson
+2011,Silver Slugger,cabreas01,SS,No,Asdrubal Cabrera
+2011,Silver Slugger,fieldpr01,1B,No,Prince Fielder
+2011,Silver Slugger,phillbr01,2B,No,Brandon Phillips
+2011,Silver Slugger,ramirar01,3B,No,Aramis Ramirez
+2011,Silver Slugger,mccanbr01,C,No,Brian McCann
+2011,Silver Slugger,braunry02,OF,No,Ryan Braun
+2011,Silver Slugger,kempma01,OF,No,Matt Kemp
+2011,Silver Slugger,uptonju01,OF,No,Justin Upton
+2011,Silver Slugger,hudsoda01,P,No,Daniel Hudson
+2011,Silver Slugger,tulowtr01,SS,No,Troy Tulowitzki
+2010,Cy Young Award,hernafe02,,No,Felix Hernandez
+2010,Cy Young Award,hallaro01,,No,Roy Halladay
+2010,Gold Glove,teixema01,1B,No,Mark Teixeira
+2010,Gold Glove,canoro01,2B,No,Robinson Cano
+2010,Gold Glove,longoev01,3B,No,Evan Longoria
+2010,Gold Glove,mauerjo01,C,No,Joe Mauer
+2010,Gold Glove,crawfca02,OF,No,Carl Crawford
+2010,Gold Glove,gutiefr01,OF,No,Franklin Gutierrez
+2010,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2010,Gold Glove,buehrma01,P,No,Mark Buehrle
+2010,Gold Glove,jeterde01,SS,No,Derek Jeter
+2010,Gold Glove,pujolal01,1B,No,Albert Pujols
+2010,Gold Glove,phillbr01,2B,No,Brandon Phillips
+2010,Gold Glove,rolensc01,3B,No,Scott Rolen
+2010,Gold Glove,molinya01,C,No,Yadier Molina
+2010,Gold Glove,bournmi01,OF,No,Michael Bourn
+2010,Gold Glove,gonzaca01,OF,No,Carlos Gonzalez
+2010,Gold Glove,victosh01,OF,No,Shane Victorino
+2010,Gold Glove,arroybr01,P,No,Bronson Arroyo
+2010,Gold Glove,tulowtr01,SS,No,Troy Tulowitzki
+2010,Most Valuable Player,hamiljo03,,No,Josh Hamilton
+2010,Most Valuable Player,vottojo01,,No,Joey Votto
+2010,Rookie of the Year,felizne01,,No,Neftali Feliz
+2010,Rookie of the Year,poseybu01,,No,Buster Posey
+2010,Silver Slugger,cabremi01,1B,No,Miguel Cabrera
+2010,Silver Slugger,canoro01,2B,No,Robinson Cano
+2010,Silver Slugger,beltrad01,3B,No,Adrian Beltre
+2010,Silver Slugger,mauerjo01,C,No,Joe Mauer
+2010,Silver Slugger,guerrvl01,DH,No,Vladimir Guerrero
+2010,Silver Slugger,bautijo02,OF,No,Jose Bautista
+2010,Silver Slugger,crawfca02,OF,No,Carl Crawford
+2010,Silver Slugger,hamiljo03,OF,No,Josh Hamilton
+2010,Silver Slugger,ramiral03,SS,No,Alexei Ramirez
+2010,Silver Slugger,pujolal01,1B,No,Albert Pujols
+2010,Silver Slugger,ugglada01,2B,No,Dan Uggla
+2010,Silver Slugger,zimmery01,3B,No,Ryan Zimmerman
+2010,Silver Slugger,mccanbr01,C,No,Brian McCann
+2010,Silver Slugger,braunry02,OF,No,Ryan Braun
+2010,Silver Slugger,gonzaca01,OF,No,Carlos Gonzalez
+2010,Silver Slugger,hollima01,OF,No,Matt Holliday
+2010,Silver Slugger,gallayo01,P,No,Yovani Gallardo
+2010,Silver Slugger,tulowtr01,SS,No,Troy Tulowitzki
+2009,Cy Young Award,greinza01,,No,Zack Greinke
+2009,Cy Young Award,linceti01,,No,Tim Lincecum
+2009,Gold Glove,teixema01,1B,No,Mark Teixeira
+2009,Gold Glove,polanpl01,2B,No,Placido Polanco
+2009,Gold Glove,longoev01,3B,No,Evan Longoria
+2009,Gold Glove,mauerjo01,C,No,Joe Mauer
+2009,Gold Glove,hunteto01,OF,No,Torii Hunter
+2009,Gold Glove,jonesad01,OF,No,Adam Jones
+2009,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2009,Gold Glove,buehrma01,P,No,Mark Buehrle
+2009,Gold Glove,jeterde01,SS,No,Derek Jeter
+2009,Gold Glove,gonzaad01,1B,No,Adrian Gonzalez
+2009,Gold Glove,hudsoor01,2B,No,Orlando Hudson
+2009,Gold Glove,zimmery01,3B,No,Ryan Zimmerman
+2009,Gold Glove,molinya01,C,No,Yadier Molina
+2009,Gold Glove,bournmi01,OF,No,Michael Bourn
+2009,Gold Glove,kempma01,OF,No,Matt Kemp
+2009,Gold Glove,victosh01,OF,No,Shane Victorino
+2009,Gold Glove,wainwad01,P,No,Adam Wainwright
+2009,Gold Glove,rolliji01,SS,No,Jimmy Rollins
+2009,Most Valuable Player,mauerjo01,,No,Joe Mauer
+2009,Most Valuable Player,pujolal01,,No,Albert Pujols
+2009,Rookie of the Year,bailean01,,No,Andrew Bailey
+2009,Rookie of the Year,coghlch01,,No,Chris Coghlan
+2009,Silver Slugger,teixema01,1B,No,Mark Teixeira
+2009,Silver Slugger,hillaa01,2B,No,Aaron Hill
+2009,Silver Slugger,longoev01,3B,No,Evan Longoria
+2009,Silver Slugger,mauerjo01,C,No,Joe Mauer
+2009,Silver Slugger,lindad01,DH,No,Adam Lind
+2009,Silver Slugger,bayja01,OF,No,Jason Bay
+2009,Silver Slugger,hunteto01,OF,No,Torii Hunter
+2009,Silver Slugger,suzukic01,OF,No,Ichiro Suzuki
+2009,Silver Slugger,jeterde01,SS,No,Derek Jeter
+2009,Silver Slugger,pujolal01,1B,No,Albert Pujols
+2009,Silver Slugger,utleych01,2B,No,Chase Utley
+2009,Silver Slugger,zimmery01,3B,No,Ryan Zimmerman
+2009,Silver Slugger,mccanbr01,C,No,Brian McCann
+2009,Silver Slugger,braunry02,OF,No,Ryan Braun
+2009,Silver Slugger,ethiean01,OF,No,Andre Ethier
+2009,Silver Slugger,kempma01,OF,No,Matt Kemp
+2009,Silver Slugger,zambrca01,P,No,Carlos Zambrano
+2009,Silver Slugger,ramirha01,SS,No,Hanley Ramirez
+2008,Cy Young Award,leecl02,,No,Cliff Lee
+2008,Cy Young Award,linceti01,,No,Tim Lincecum
+2008,Gold Glove,penaca01,1B,No,Carlos Pena
+2008,Gold Glove,pedrodu01,2B,No,Dustin Pedroia
+2008,Gold Glove,beltrad01,3B,No,Adrian Beltre
+2008,Gold Glove,mauerjo01,C,No,Joe Mauer
+2008,Gold Glove,hunteto01,OF,No,Torii Hunter
+2008,Gold Glove,sizemgr01,OF,No,Grady Sizemore
+2008,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2008,Gold Glove,mussimi01,P,No,Mike Mussina
+2008,Gold Glove,youngmi02,SS,No,Michael Young
+2008,Gold Glove,gonzaad01,1B,No,Adrian Gonzalez
+2008,Gold Glove,phillbr01,2B,No,Brandon Phillips
+2008,Gold Glove,wrighda03,3B,No,David Wright
+2008,Gold Glove,molinya01,C,No,Yadier Molina
+2008,Gold Glove,beltrca01,OF,No,Carlos Beltran
+2008,Gold Glove,mclouna01,OF,No,Nate McLouth
+2008,Gold Glove,victosh01,OF,No,Shane Victorino
+2008,Gold Glove,maddugr01,P,No,Greg Maddux
+2008,Gold Glove,rolliji01,SS,No,Jimmy Rollins
+2008,Most Valuable Player,pedrodu01,,No,Dustin Pedroia
+2008,Most Valuable Player,pujolal01,,No,Albert Pujols
+2008,Rookie of the Year,longoev01,,No,Evan Longoria
+2008,Rookie of the Year,sotoge01,,No,Geovany Soto
+2008,Silver Slugger,morneju01,1B,No,Justin Morneau
+2008,Silver Slugger,pedrodu01,2B,No,Dustin Pedroia
+2008,Silver Slugger,rodrial01,3B,No,Alex Rodriguez
+2008,Silver Slugger,mauerjo01,C,No,Joe Mauer
+2008,Silver Slugger,huffau01,DH,No,Aubrey Huff
+2008,Silver Slugger,hamiljo03,OF,No,Josh Hamilton
+2008,Silver Slugger,quentca01,OF,No,Carlos Quentin
+2008,Silver Slugger,sizemgr01,OF,No,Grady Sizemore
+2008,Silver Slugger,jeterde01,SS,No,Derek Jeter
+2008,Silver Slugger,pujolal01,1B,No,Albert Pujols
+2008,Silver Slugger,utleych01,2B,No,Chase Utley
+2008,Silver Slugger,wrighda03,3B,No,David Wright
+2008,Silver Slugger,mccanbr01,C,No,Brian McCann
+2008,Silver Slugger,braunry02,OF,No,Ryan Braun
+2008,Silver Slugger,hollima01,OF,No,Matt Holliday
+2008,Silver Slugger,ludwiry01,OF,No,Ryan Ludwick
+2008,Silver Slugger,zambrca01,P,No,Carlos Zambrano
+2008,Silver Slugger,ramirha01,SS,No,Hanley Ramirez
+2007,Cy Young Award,sabatcc01,,No,CC Sabathia
+2007,Cy Young Award,peavyja01,,No,Jake Peavy
+2007,Gold Glove,youklke01,1B,No,Kevin Youkilis
+2007,Gold Glove,polanpl01,2B,No,Placido Polanco
+2007,Gold Glove,beltrad01,3B,No,Adrian Beltre
+2007,Gold Glove,rodriiv01,C,No,Ivan Rodriguez
+2007,Gold Glove,hunteto01,OF,No,Torii Hunter
+2007,Gold Glove,sizemgr01,OF,No,Grady Sizemore
+2007,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2007,Gold Glove,santajo01,P,No,Johan Santana
+2007,Gold Glove,cabreor01,SS,No,Orlando Cabrera
+2007,Gold Glove,leede02,1B,No,Derrek Lee
+2007,Gold Glove,hudsoor01,2B,No,Orlando Hudson
+2007,Gold Glove,wrighda03,3B,No,David Wright
+2007,Gold Glove,martiru01,C,No,Russell Martin
+2007,Gold Glove,beltrca01,OF,No,Carlos Beltran
+2007,Gold Glove,francje02,OF,No,Jeff Francoeur
+2007,Gold Glove,jonesan01,OF,No,Andruw Jones
+2007,Gold Glove,rowanaa01,OF,No,Aaron Rowand
+2007,Gold Glove,maddugr01,P,No,Greg Maddux
+2007,Gold Glove,rolliji01,SS,No,Jimmy Rollins
+2007,Most Valuable Player,rodrial01,,No,Alex Rodriguez
+2007,Most Valuable Player,rolliji01,,No,Jimmy Rollins
+2007,Pitching Triple Crown,peavyja01,,No,Jake Peavy
+2007,Rookie of the Year,pedrodu01,,No,Dustin Pedroia
+2007,Rookie of the Year,braunry02,,No,Ryan Braun
+2007,Silver Slugger,penaca01,1B,No,Carlos Pena
+2007,Silver Slugger,polanpl01,2B,No,Placido Polanco
+2007,Silver Slugger,rodrial01,3B,No,Alex Rodriguez
+2007,Silver Slugger,posadjo01,C,No,Jorge Posada
+2007,Silver Slugger,ortizda01,DH,No,David Ortiz
+2007,Silver Slugger,guerrvl01,OF,No,Vladimir Guerrero
+2007,Silver Slugger,ordonma01,OF,No,Magglio Ordonez
+2007,Silver Slugger,suzukic01,OF,No,Ichiro Suzuki
+2007,Silver Slugger,jeterde01,SS,No,Derek Jeter
+2007,Silver Slugger,fieldpr01,1B,No,Prince Fielder
+2007,Silver Slugger,utleych01,2B,No,Chase Utley
+2007,Silver Slugger,wrighda03,3B,No,David Wright
+2007,Silver Slugger,martiru01,C,No,Russell Martin
+2007,Silver Slugger,beltrca01,OF,No,Carlos Beltran
+2007,Silver Slugger,hollima01,OF,No,Matt Holliday
+2007,Silver Slugger,leeca01,OF,No,Carlos Lee
+2007,Silver Slugger,owingmi01,P,No,Micah Owings
+2007,Silver Slugger,rolliji01,SS,No,Jimmy Rollins
+2006,Cy Young Award,santajo01,,No,Johan Santana
+2006,Cy Young Award,webbbr01,,No,Brandon Webb
+2006,Gold Glove,teixema01,1B,No,Mark Teixeira
+2006,Gold Glove,grudzma01,2B,No,Mark Grudzielanek
+2006,Gold Glove,chaveer01,3B,No,Eric Chavez
+2006,Gold Glove,rodriiv01,C,No,Ivan Rodriguez
+2006,Gold Glove,hunteto01,OF,No,Torii Hunter
+2006,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2006,Gold Glove,wellsve01,OF,No,Vernon Wells
+2006,Gold Glove,rogerke01,P,No,Kenny Rogers
+2006,Gold Glove,jeterde01,SS,No,Derek Jeter
+2006,Gold Glove,pujolal01,1B,No,Albert Pujols
+2006,Gold Glove,hudsoor01,2B,No,Orlando Hudson
+2006,Gold Glove,rolensc01,3B,No,Scott Rolen
+2006,Gold Glove,ausmubr01,C,No,Brad Ausmus
+2006,Gold Glove,beltrca01,OF,No,Carlos Beltran
+2006,Gold Glove,camermi01,OF,No,Mike Cameron
+2006,Gold Glove,jonesan01,OF,No,Andruw Jones
+2006,Gold Glove,maddugr01,P,No,Greg Maddux
+2006,Gold Glove,vizquom01,SS,No,Omar Vizquel
+2006,Most Valuable Player,morneju01,,No,Justin Morneau
+2006,Most Valuable Player,howarry01,,No,Ryan Howard
+2006,Pitching Triple Crown,santajo01,,No,Johan Santana
+2006,Rookie of the Year,verlaju01,,No,Justin Verlander
+2006,Rookie of the Year,ramirha01,,No,Hanley Ramirez
+2006,Silver Slugger,morneju01,1B,No,Justin Morneau
+2006,Silver Slugger,canoro01,2B,No,Robinson Cano
+2006,Silver Slugger,credejo01,3B,No,Joe Crede
+2006,Silver Slugger,mauerjo01,C,No,Joe Mauer
+2006,Silver Slugger,ortizda01,DH,No,David Ortiz
+2006,Silver Slugger,dyeje01,OF,No,Jermaine Dye
+2006,Silver Slugger,guerrvl01,OF,No,Vladimir Guerrero
+2006,Silver Slugger,ramirma02,OF,No,Manny Ramirez
+2006,Silver Slugger,jeterde01,SS,No,Derek Jeter
+2006,Silver Slugger,howarry01,1B,No,Ryan Howard
+2006,Silver Slugger,utleych01,2B,No,Chase Utley
+2006,Silver Slugger,cabremi01,3B,No,Miguel Cabrera
+2006,Silver Slugger,mccanbr01,C,No,Brian McCann
+2006,Silver Slugger,beltrca01,OF,No,Carlos Beltran
+2006,Silver Slugger,hollima01,OF,No,Matt Holliday
+2006,Silver Slugger,soriaal01,OF,No,Alfonso Soriano
+2006,Silver Slugger,zambrca01,P,No,Carlos Zambrano
+2006,Silver Slugger,reyesjo01,SS,No,Jose Reyes
+2005,Cy Young Award,colonba01,,No,Bartolo Colon
+2005,Cy Young Award,carpech01,,No,Chris Carpenter
+2005,Gold Glove,teixema01,1B,No,Mark Teixeira
+2005,Gold Glove,hudsoor01,2B,No,Orlando Hudson
+2005,Gold Glove,chaveer01,3B,No,Eric Chavez
+2005,Gold Glove,varitja01,C,No,Jason Varitek
+2005,Gold Glove,hunteto01,OF,No,Torii Hunter
+2005,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2005,Gold Glove,wellsve01,OF,No,Vernon Wells
+2005,Gold Glove,rogerke01,P,No,Kenny Rogers
+2005,Gold Glove,jeterde01,SS,No,Derek Jeter
+2005,Gold Glove,leede02,1B,No,Derrek Lee
+2005,Gold Glove,castilu01,2B,No,Luis Castillo
+2005,Gold Glove,lowelmi01,3B,No,Mike Lowell
+2005,Gold Glove,mathemi01,C,No,Mike Matheny
+2005,Gold Glove,abreubo01,OF,No,Bobby Abreu
+2005,Gold Glove,edmonji01,OF,No,Jim Edmonds
+2005,Gold Glove,jonesan01,OF,No,Andruw Jones
+2005,Gold Glove,maddugr01,P,No,Greg Maddux
+2005,Gold Glove,vizquom01,SS,No,Omar Vizquel
+2005,Most Valuable Player,rodrial01,,No,Alex Rodriguez
+2005,Most Valuable Player,pujolal01,,No,Albert Pujols
+2005,Rookie of the Year,streehu01,,No,Huston Street
+2005,Rookie of the Year,howarry01,,No,Ryan Howard
+2005,Silver Slugger,teixema01,1B,No,Mark Teixeira
+2005,Silver Slugger,soriaal01,2B,No,Alfonso Soriano
+2005,Silver Slugger,rodrial01,3B,No,Alex Rodriguez
+2005,Silver Slugger,varitja01,C,No,Jason Varitek
+2005,Silver Slugger,ortizda01,DH,No,David Ortiz
+2005,Silver Slugger,guerrvl01,OF,No,Vladimir Guerrero
+2005,Silver Slugger,ramirma02,OF,No,Manny Ramirez
+2005,Silver Slugger,sheffga01,OF,No,Gary Sheffield
+2005,Silver Slugger,tejadmi01,SS,No,Miguel Tejada
+2005,Silver Slugger,leede02,1B,No,Derrek Lee
+2005,Silver Slugger,kentje01,2B,No,Jeff Kent
+2005,Silver Slugger,ensbemo01,3B,No,Morgan Ensberg
+2005,Silver Slugger,barremi01,C,No,Michael Barrett
+2005,Silver Slugger,cabremi01,OF,No,Miguel Cabrera
+2005,Silver Slugger,jonesan01,OF,No,Andruw Jones
+2005,Silver Slugger,leeca01,OF,No,Carlos Lee
+2005,Silver Slugger,marquja01,P,No,Jason Marquis
+2005,Silver Slugger,lopezfe01,SS,No,Felipe Lopez
+2004,Cy Young Award,santajo01,,No,Johan Santana
+2004,Cy Young Award,clemero02,,No,Roger Clemens
+2004,Gold Glove,erstada01,1B,No,Darin Erstad
+2004,Gold Glove,boonebr01,2B,No,Bret Boone
+2004,Gold Glove,chaveer01,3B,No,Eric Chavez
+2004,Gold Glove,rodriiv01,C,No,Ivan Rodriguez
+2004,Gold Glove,hunteto01,OF,No,Torii Hunter
+2004,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2004,Gold Glove,wellsve01,OF,No,Vernon Wells
+2004,Gold Glove,rogerke01,P,No,Kenny Rogers
+2004,Gold Glove,jeterde01,SS,No,Derek Jeter
+2004,Gold Glove,heltoto01,1B,No,Todd Helton
+2004,Gold Glove,castilu01,2B,No,Luis Castillo
+2004,Gold Glove,rolensc01,3B,No,Scott Rolen
+2004,Gold Glove,mathemi01,C,No,Mike Matheny
+2004,Gold Glove,edmonji01,OF,No,Jim Edmonds
+2004,Gold Glove,finlest01,OF,No,Steve Finley
+2004,Gold Glove,jonesan01,OF,No,Andruw Jones
+2004,Gold Glove,maddugr01,P,No,Greg Maddux
+2004,Gold Glove,izturce01,SS,No,Cesar Izturis
+2004,Most Valuable Player,guerrvl01,,No,Vladimir Guerrero
+2004,Most Valuable Player,bondsba01,,No,Barry Bonds
+2004,Rookie of the Year,crosbbo01,,No,Bobby Crosby
+2004,Rookie of the Year,bayja01,,No,Jason Bay
+2004,Silver Slugger,teixema01,1B,No,Mark Teixeira
+2004,Silver Slugger,soriaal01,2B,No,Alfonso Soriano
+2004,Silver Slugger,morame01,3B,No,Melvin Mora
+2004,Silver Slugger,martivi01,C,Y,Victor Martinez
+2004,Silver Slugger,rodriiv01,C,Y,Ivan Rodriguez
+2004,Silver Slugger,ortizda01,DH,No,David Ortiz
+2004,Silver Slugger,guerrvl01,OF,No,Vladimir Guerrero
+2004,Silver Slugger,ramirma02,OF,No,Manny Ramirez
+2004,Silver Slugger,sheffga01,OF,No,Gary Sheffield
+2004,Silver Slugger,tejadmi01,SS,No,Miguel Tejada
+2004,Silver Slugger,pujolal01,1B,No,Albert Pujols
+2004,Silver Slugger,loretma01,2B,No,Mark Loretta
+2004,Silver Slugger,beltrad01,3B,No,Adrian Beltre
+2004,Silver Slugger,estrajo01,C,No,Johnny Estrada
+2004,Silver Slugger,abreubo01,OF,No,Bobby Abreu
+2004,Silver Slugger,bondsba01,OF,No,Barry Bonds
+2004,Silver Slugger,edmonji01,OF,No,Jim Edmonds
+2004,Silver Slugger,hernali01,P,No,Livan Hernandez
+2004,Silver Slugger,wilsoja02,SS,No,Jack Wilson
+2003,Cy Young Award,hallaro01,,No,Roy Halladay
+2003,Cy Young Award,gagneer01,,No,Eric Gagne
+2003,Gold Glove,olerujo01,1B,No,John Olerud
+2003,Gold Glove,boonebr01,2B,No,Bret Boone
+2003,Gold Glove,chaveer01,3B,No,Eric Chavez
+2003,Gold Glove,molinbe01,C,No,Bengie Molina
+2003,Gold Glove,camermi01,OF,No,Mike Cameron
+2003,Gold Glove,hunteto01,OF,No,Torii Hunter
+2003,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2003,Gold Glove,mussimi01,P,No,Mike Mussina
+2003,Gold Glove,rodrial01,SS,No,Alex Rodriguez
+2003,Gold Glove,leede02,1B,No,Derrek Lee
+2003,Gold Glove,castilu01,2B,No,Luis Castillo
+2003,Gold Glove,rolensc01,3B,No,Scott Rolen
+2003,Gold Glove,mathemi01,C,No,Mike Matheny
+2003,Gold Glove,cruzjo02,OF,No,Jose Cruz
+2003,Gold Glove,edmonji01,OF,No,Jim Edmonds
+2003,Gold Glove,jonesan01,OF,No,Andruw Jones
+2003,Gold Glove,hamptmi01,P,No,Mike Hampton
+2003,Gold Glove,renteed01,SS,No,Edgar Renteria
+2003,Most Valuable Player,rodrial01,,No,Alex Rodriguez
+2003,Most Valuable Player,bondsba01,,No,Barry Bonds
+2003,Rookie of the Year,berroan01,,No,Angel Berroa
+2003,Rookie of the Year,willido03,,No,Dontrelle Willis
+2003,Silver Slugger,delgaca01,1B,No,Carlos Delgado
+2003,Silver Slugger,boonebr01,2B,No,Bret Boone
+2003,Silver Slugger,muellbi02,3B,No,Bill Mueller
+2003,Silver Slugger,posadjo01,C,No,Jorge Posada
+2003,Silver Slugger,martied01,DH,No,Edgar Martinez
+2003,Silver Slugger,anderga01,OF,No,Garret Anderson
+2003,Silver Slugger,ramirma02,OF,No,Manny Ramirez
+2003,Silver Slugger,wellsve01,OF,No,Vernon Wells
+2003,Silver Slugger,rodrial01,SS,No,Alex Rodriguez
+2003,Silver Slugger,heltoto01,1B,No,Todd Helton
+2003,Silver Slugger,vidrojo01,2B,No,Jose Vidro
+2003,Silver Slugger,lowelmi01,3B,No,Mike Lowell
+2003,Silver Slugger,lopezja01,C,No,Javy Lopez
+2003,Silver Slugger,bondsba01,OF,No,Barry Bonds
+2003,Silver Slugger,pujolal01,OF,No,Albert Pujols
+2003,Silver Slugger,sheffga01,OF,No,Gary Sheffield
+2003,Silver Slugger,hamptmi01,P,No,Mike Hampton
+2003,Silver Slugger,renteed01,SS,No,Edgar Renteria
+2002,Cy Young Award,zitoba01,,No,Barry Zito
+2002,Cy Young Award,johnsra05,,No,Randy Johnson
+2002,Gold Glove,olerujo01,1B,No,John Olerud
+2002,Gold Glove,boonebr01,2B,No,Bret Boone
+2002,Gold Glove,chaveer01,3B,No,Eric Chavez
+2002,Gold Glove,molinbe01,C,No,Bengie Molina
+2002,Gold Glove,erstada01,OF,No,Darin Erstad
+2002,Gold Glove,hunteto01,OF,No,Torii Hunter
+2002,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2002,Gold Glove,rogerke01,P,No,Kenny Rogers
+2002,Gold Glove,rodrial01,SS,No,Alex Rodriguez
+2002,Gold Glove,heltoto01,1B,No,Todd Helton
+2002,Gold Glove,vinafe01,2B,No,Fernando Vina
+2002,Gold Glove,rolensc01,3B,No,Scott Rolen
+2002,Gold Glove,ausmubr01,C,No,Brad Ausmus
+2002,Gold Glove,edmonji01,OF,No,Jim Edmonds
+2002,Gold Glove,jonesan01,OF,No,Andruw Jones
+2002,Gold Glove,walkela01,OF,No,Larry Walker
+2002,Gold Glove,maddugr01,P,No,Greg Maddux
+2002,Gold Glove,renteed01,SS,No,Edgar Renteria
+2002,Most Valuable Player,tejadmi01,,No,Miguel Tejada
+2002,Most Valuable Player,bondsba01,,No,Barry Bonds
+2002,Pitching Triple Crown,johnsra05,,No,Randy Johnson
+2002,Rookie of the Year,hinsker01,,No,Eric Hinske
+2002,Rookie of the Year,jennija01,,No,Jason Jennings
+2002,Silver Slugger,giambja01,1B,No,Jason Giambi
+2002,Silver Slugger,soriaal01,2B,No,Alfonso Soriano
+2002,Silver Slugger,chaveer01,3B,No,Eric Chavez
+2002,Silver Slugger,posadjo01,C,No,Jorge Posada
+2002,Silver Slugger,ramirma02,DH,No,Manny Ramirez
+2002,Silver Slugger,anderga01,OF,No,Garret Anderson
+2002,Silver Slugger,ordonma01,OF,No,Magglio Ordonez
+2002,Silver Slugger,willibe02,OF,No,Bernie Williams
+2002,Silver Slugger,rodrial01,SS,No,Alex Rodriguez
+2002,Silver Slugger,heltoto01,1B,No,Todd Helton
+2002,Silver Slugger,kentje01,2B,No,Jeff Kent
+2002,Silver Slugger,rolensc01,3B,No,Scott Rolen
+2002,Silver Slugger,piazzmi01,C,No,Mike Piazza
+2002,Silver Slugger,bondsba01,OF,No,Barry Bonds
+2002,Silver Slugger,guerrvl01,OF,No,Vladimir Guerrero
+2002,Silver Slugger,sosasa01,OF,No,Sammy Sosa
+2002,Silver Slugger,hamptmi01,P,No,Mike Hampton
+2002,Silver Slugger,renteed01,SS,No,Edgar Renteria
+2001,Cy Young Award,clemero02,,No,Roger Clemens
+2001,Cy Young Award,johnsra05,,No,Randy Johnson
+2001,Gold Glove,mientdo01,1B,No,Doug Mientkiewicz
+2001,Gold Glove,alomaro01,2B,No,Roberto Alomar
+2001,Gold Glove,chaveer01,3B,No,Eric Chavez
+2001,Gold Glove,rodriiv01,C,No,Ivan Rodriguez
+2001,Gold Glove,camermi01,OF,No,Mike Cameron
+2001,Gold Glove,hunteto01,OF,No,Torii Hunter
+2001,Gold Glove,suzukic01,OF,No,Ichiro Suzuki
+2001,Gold Glove,mussimi01,P,No,Mike Mussina
+2001,Gold Glove,vizquom01,SS,No,Omar Vizquel
+2001,Gold Glove,heltoto01,1B,No,Todd Helton
+2001,Gold Glove,vinafe01,2B,No,Fernando Vina
+2001,Gold Glove,rolensc01,3B,No,Scott Rolen
+2001,Gold Glove,ausmubr01,C,No,Brad Ausmus
+2001,Gold Glove,edmonji01,OF,No,Jim Edmonds
+2001,Gold Glove,jonesan01,OF,No,Andruw Jones
+2001,Gold Glove,walkela01,OF,No,Larry Walker
+2001,Gold Glove,maddugr01,P,No,Greg Maddux
+2001,Gold Glove,cabreor01,SS,No,Orlando Cabrera
+2001,Most Valuable Player,suzukic01,,No,Ichiro Suzuki
+2001,Most Valuable Player,bondsba01,,No,Barry Bonds
+2001,Rookie of the Year,suzukic01,,No,Ichiro Suzuki
+2001,Rookie of the Year,pujolal01,,No,Albert Pujols
+2001,Silver Slugger,giambja01,1B,No,Jason Giambi
+2001,Silver Slugger,boonebr01,2B,No,Bret Boone
+2001,Silver Slugger,glaustr01,3B,No,Troy Glaus
+2001,Silver Slugger,posadjo01,C,No,Jorge Posada
+2001,Silver Slugger,martied01,DH,No,Edgar Martinez
+2001,Silver Slugger,gonzaju03,OF,No,Juan Gonzalez
+2001,Silver Slugger,ramirma02,OF,No,Manny Ramirez
+2001,Silver Slugger,suzukic01,OF,No,Ichiro Suzuki
+2001,Silver Slugger,rodrial01,SS,No,Alex Rodriguez
+2001,Silver Slugger,heltoto01,1B,No,Todd Helton
+2001,Silver Slugger,kentje01,2B,No,Jeff Kent
+2001,Silver Slugger,pujolal01,3B,No,Albert Pujols
+2001,Silver Slugger,piazzmi01,C,No,Mike Piazza
+2001,Silver Slugger,bondsba01,OF,No,Barry Bonds
+2001,Silver Slugger,gonzalu01,OF,No,Luis Gonzalez
+2001,Silver Slugger,sosasa01,OF,No,Sammy Sosa
+2001,Silver Slugger,hamptmi01,P,No,Mike Hampton
+2001,Silver Slugger,aurilri01,SS,No,Rich Aurilia
+2000,Cy Young Award,martipe02,,No,Pedro Martinez
+2000,Cy Young Award,johnsra05,,No,Randy Johnson
+2000,Gold Glove,olerujo01,1B,No,John Olerud
+2000,Gold Glove,alomaro01,2B,No,Roberto Alomar
+2000,Gold Glove,frymatr01,3B,No,Travis Fryman
+2000,Gold Glove,rodriiv01,C,No,Ivan Rodriguez
+2000,Gold Glove,dyeje01,OF,No,Jermaine Dye
+2000,Gold Glove,erstada01,OF,No,Darin Erstad
+2000,Gold Glove,willibe02,OF,No,Bernie Williams
+2000,Gold Glove,rogerke01,P,No,Kenny Rogers
+2000,Gold Glove,vizquom01,SS,No,Omar Vizquel
+2000,Gold Glove,snowjt01,1B,No,J. T. Snow
+2000,Gold Glove,reesepo01,2B,No,Pokey Reese
+2000,Gold Glove,rolensc01,3B,No,Scott Rolen
+2000,Gold Glove,mathemi01,C,No,Mike Matheny
+2000,Gold Glove,edmonji01,OF,No,Jim Edmonds
+2000,Gold Glove,finlest01,OF,No,Steve Finley
+2000,Gold Glove,jonesan01,OF,No,Andruw Jones
+2000,Gold Glove,maddugr01,P,No,Greg Maddux
+2000,Gold Glove,perezne01,SS,No,Neifi Perez
+2000,Most Valuable Player,giambja01,,No,Jason Giambi
+2000,Most Valuable Player,kentje01,,No,Jeff Kent
+2000,Rookie of the Year,sasakka01,,No,Kazuhiro Sasaki
+2000,Rookie of the Year,furcara01,,No,Rafael Furcal
+2000,Silver Slugger,delgaca01,1B,No,Carlos Delgado
+2000,Silver Slugger,alomaro01,2B,No,Roberto Alomar
+2000,Silver Slugger,glaustr01,3B,No,Troy Glaus
+2000,Silver Slugger,posadjo01,C,No,Jorge Posada
+2000,Silver Slugger,thomafr04,DH,No,Frank Thomas
+2000,Silver Slugger,erstada01,OF,No,Darin Erstad
+2000,Silver Slugger,ordonma01,OF,No,Magglio Ordonez
+2000,Silver Slugger,ramirma02,OF,No,Manny Ramirez
+2000,Silver Slugger,rodrial01,SS,No,Alex Rodriguez
+2000,Silver Slugger,heltoto01,1B,No,Todd Helton
+2000,Silver Slugger,kentje01,2B,No,Jeff Kent
+2000,Silver Slugger,jonesch06,3B,No,Chipper Jones
+2000,Silver Slugger,piazzmi01,C,No,Mike Piazza
+2000,Silver Slugger,bondsba01,OF,No,Barry Bonds
+2000,Silver Slugger,guerrvl01,OF,No,Vladimir Guerrero
+2000,Silver Slugger,sosasa01,OF,No,Sammy Sosa
+2000,Silver Slugger,hamptmi01,P,No,Mike Hampton
+2000,Silver Slugger,renteed01,SS,No,Edgar Renteria
