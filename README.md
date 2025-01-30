@@ -5,7 +5,7 @@
 👉 [**Tableau Public Link**](https://public.tableau.com/app/profile/colby.reichenbach/viz/MLBAwardWinners2000-2023v1/OverviewDash)
 
 ## 📂 Download the Tableau Workbook:
-[⬇ **MLB_Awards_Dashboard.twbx**](https://github.com/your-repo/MLB_Awards_Dashboard.twbx)
+[⬇ **MLB_Awards_Dashboard.twbx**](/tableau/Dash_v1.twbx)
 
 ## 📖 About This Dashboard:
 This project visualizes award winners in Major League Baseball from **2000 to 2023**.  
