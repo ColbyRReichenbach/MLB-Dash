@@ -2,7 +2,7 @@
 ### An interactive Tableau visualization of MVP, Cy Young, and Silver Slugger winners.
 
 ## 📊 View the Dashboard Online:
-👉 [**Tableau Public Link**](https://public.tableau.com/your-dashboard-link)
+👉 [**Tableau Public Link**]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/app/profile/colby.reichenbach/viz/MLBAwardWinners2000-2023v1/OverviewDash))
 
 ## 📂 Download the Tableau Workbook:
 [⬇ **MLB_Awards_Dashboard.twbx**](https://github.com/your-repo/MLB_Awards_Dashboard.twbx)
