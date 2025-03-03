@@ -38,6 +38,6 @@ This project uses data from the **Lahman Baseball Database** (Version 2023), a p
 
 ---
 ## Contact Information:
-✍Colby Reichenbach  
+Colby Reichenbach  
 **Email:** [colbyrreichenbach@gmail.com](mailto:colbyrreichenbach@gmail.com)  
 [LinkedIn Profile](https://www.linkedin.com/in/colby-reichenbach/)
